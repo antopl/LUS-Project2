@@ -1,0 +1,7532 @@
+who_who_WP O
+plays_play_VVZ O
+luke_luke_NN B-character.name
+on_on_IN O
+star_star_NN B-movie.name
+wars_war_NNS I-movie.name
+new_new_JJ I-movie.name
+hope_hope_NN I-movie.name
+
+show_show_NN O
+credits_credit_NNS O
+for_for_IN O
+the_the_DT B-movie.name
+godfather_godfather_NN I-movie.name
+
+who_who_WP O
+was_be_VBD O
+the_the_DT O
+main_main_JJ O
+actor_actor_NN O
+in_in_IN O
+the_the_DT B-movie.name
+exorcist_exorcist_NN I-movie.name
+
+find_find_VV O
+the_the_DT O
+female_female_JJ O
+actress_actress_NN O
+from_from_IN O
+the_the_DT O
+movie_movie_NN O
+she_she_PP B-movie.name
+'s_be_VBZ I-movie.name
+the_the_DT I-movie.name
+man_man_NN I-movie.name
+
+who_who_WP O
+played_play_VVD O
+dory_dory_NN B-character.name
+on_on_IN O
+finding_find_VVG B-movie.name
+nemo_nemo_NN I-movie.name
+
+who_who_WP O
+was_be_VBD O
+the_the_DT O
+female_female_JJ O
+lead_lead_NN O
+in_in_IN O
+resident_resident_JJ B-movie.name
+evil_evil_NN I-movie.name
+
+who_who_WP O
+played_play_VVD O
+guido_guido_NN B-character.name
+in_in_IN O
+life_life_NN B-movie.name
+is_be_VBZ I-movie.name
+beautiful_beautiful_JJ I-movie.name
+
+who_who_WP O
+was_be_VBD O
+the_the_DT O
+co-star_co-star_NN O
+in_in_IN O
+shoot_shoot_NN B-movie.name
+to_to_TO I-movie.name
+kill_kill_VV I-movie.name
+
+find_find_VV O
+the_the_DT O
+guy_guy_NN O
+who_who_WP O
+plays_play_VVZ O
+charlie_charlie_NN B-character.name
+on_on_IN O
+charlie_charlie_NN B-movie.name
+'s_'s_POS I-movie.name
+angels_angel_NNS I-movie.name
+
+cast_cast_NN O
+and_and_CC O
+crew_crew_NN O
+of_of_IN O
+movie_movie_NN O
+the_the_DT B-movie.name
+campaign_campaign_NN I-movie.name
+
+cast_cast_NN O
+and_and_CC O
+crew_crew_NN O
+of_of_IN O
+the_the_DT B-movie.name
+campaign_campaign_NN I-movie.name
+
+who_who_WP O
+plays_play_VVZ O
+in_in_IN O
+the_the_DT O
+movie_movie_NN O
+the_the_DT B-movie.name
+campaign_campaign_NN I-movie.name
+
+who_who_WP O
+starred_star_VVD O
+in_in_IN O
+the_the_DT B-movie.name
+campaign_campaign_NN I-movie.name
+
+who_who_WP O
+were_be_VBD O
+the_the_DT O
+crew_crew_NN O
+for_for_IN O
+the_the_DT B-movie.name
+campaign_campaign_NN I-movie.name
+
+who_who_WP O
+was_be_VBD O
+the_the_DT O
+lead_lead_JJ O
+man_man_NN O
+in_in_IN O
+taxi_taxi_NN B-movie.name
+driver_driver_NN I-movie.name
+
+star_star_NN O
+of_of_IN O
+twilight_twilight_NN B-movie.name
+
+who_who_WP O
+stars_star_VVZ O
+in_in_IN O
+vulgaria_vulgaria_NN B-movie.name
+
+what_what_WP O
+are_be_VBP O
+the_the_DT O
+names_name_NNS O
+of_of_IN O
+female_female_JJ O
+actors_actor_NNS O
+who_who_WP O
+played_play_VVD O
+in_in_IN O
+lost_lose_VVN B-movie.name
+
+can_can_MD O
+i_i_NNS O
+see_see_VV O
+the_the_DT O
+set_set_VVN O
+list_list_NN O
+and_and_CC O
+cast_cast_NN O
+for_for_IN O
+life_life_NN B-movie.name
+is_be_VBZ I-movie.name
+beautiful_beautiful_JJ I-movie.name
+
+cast_cast_NN O
+and_and_CC O
+crew_crew_NN O
+of_of_IN O
+life_life_NN B-movie.name
+is_be_VBZ I-movie.name
+beautiful_beautiful_JJ I-movie.name
+
+show_show_NN O
+cast_cast_NN O
+and_and_CC O
+crew_crew_NN O
+for_for_IN O
+the_the_DT O
+movie_movie_NN O
+life_life_NN B-movie.name
+is_be_VBZ I-movie.name
+beautiful_beautiful_JJ I-movie.name
+
+what_what_WP O
+'s_be_VBZ O
+the_the_DT O
+cast_cast_NN O
+for_for_IN O
+life_life_NN B-movie.name
+is_be_VBZ I-movie.name
+beautiful_beautiful_JJ I-movie.name
+
+who_who_WP O
+played_play_VVD O
+in_in_IN O
+life_life_NN B-movie.name
+is_be_VBZ I-movie.name
+beautiful_beautiful_JJ I-movie.name
+
+who_who_WP O
+played_play_VVD O
+in_in_IN O
+life_life_NN B-movie.name
+is_be_VBZ I-movie.name
+beautiful_beautiful_JJ I-movie.name
+
+who_who_WP O
+was_be_VBD O
+in_in_IN O
+life_life_NN B-movie.name
+is_be_VBZ I-movie.name
+beautiful_beautiful_JJ I-movie.name
+
+who_who_WP O
+were_be_VBD O
+roberto_Roberto_NP B-actor.name
+benigni_Benigni_NP I-actor.name
+'s_'s_POS O
+costars_costar_NNS O
+on_on_IN O
+life_life_NN B-movie.name
+is_be_VBZ I-movie.name
+beautiful_beautiful_JJ I-movie.name
+
+i_i_NNS O
+am_be_VBP O
+looking_look_VVG O
+for_for_IN O
+the_the_DT O
+actor_actor_NN O
+that_that_WDT O
+played_play_VVD O
+in_in_IN O
+pretty_pretty_JJ B-movie.name
+women_woman_NNS I-movie.name
+
+star_star_NN O
+of_of_IN O
+troy_troy_NN B-movie.name
+
+who_who_WP O
+played_play_VVD O
+robin_robin_NN B-character.name
+in_in_IN O
+batman_batman_NN B-movie.name
+forever_forever_RB I-movie.name
+
+find_find_VV O
+the_the_DT O
+male_male_JJ O
+actor_actor_NN O
+from_from_IN O
+dirty_dirty_JJ B-movie.name
+harry_harry_VVP I-movie.name
+
+show_show_VV O
+me_me_PP O
+the_the_DT O
+actor_actor_NN O
+of_of_IN O
+the_the_DT O
+ranam_ranam_NP B-movie.name
+
+rocky_rocky_JJ B-movie.name
+actor_actor_NN O
+
+what_what_WP O
+actor_actor_NN O
+played_play_VVN O
+in_in_IN O
+the_the_DT B-movie.name
+amazing_amazing_JJ I-movie.name
+spider_spider_NN I-movie.name
+man_man_NN I-movie.name
+
+who_who_WP O
+are_be_VBP O
+the_the_DT O
+actors_actor_NNS O
+in_in_IN O
+captain_captain_NN B-movie.name
+america_america_NN I-movie.name
+
+who_who_WP O
+starred_star_VVD O
+in_in_IN O
+captain_captain_NN B-movie.name
+america_america_NN I-movie.name
+
+who_who_WP O
+was_be_VBD O
+in_in_IN O
+the_the_DT O
+movie_movie_NN O
+captain_captain_NN B-movie.name
+america_america_NN I-movie.name
+
+who_who_WP O
+were_be_VBD O
+the_the_DT O
+cast_cast_NN O
+members_member_NNS O
+in_in_IN O
+the_the_DT B-movie.name
+hobbist_hobbist_NN I-movie.name
+
+show_show_VV O
+me_me_PP O
+the_the_DT O
+actor_actor_NN O
+of_of_IN O
+the_the_DT O
+movie_movie_NN O
+varsham_varsham_NN B-movie.name
+
+which_which_WDT O
+female_female_JJ O
+actors_actor_NNS O
+starred_star_VVN O
+in_in_IN O
+hitch_hitch_NN B-movie.name
+
+can_can_MD O
+i_i_NNS O
+see_see_VV O
+the_the_DT O
+cast_cast_NN O
+and_and_CC O
+crew_crew_NN O
+for_for_IN O
+the_the_DT O
+movie_movie_NN O
+in_in_IN B-movie.name
+july_july_RB I-movie.name
+
+list_list_NN O
+cast_cast_NN O
+and_and_CC O
+crew_crew_NN O
+in_in_IN B-movie.name
+july_july_RB I-movie.name
+
+who_who_WP O
+stars_star_VVZ O
+in_in_IN O
+in_in_IN B-movie.name
+july_July_NN I-movie.name
+
+who_who_WP O
+stars_star_VVZ O
+in_in_IN O
+in_in_IN B-movie.name
+july_July_NN I-movie.name
+
+roll_roll_NN O
+credits_credit_NNS O
+for_for_IN O
+top_top_JJ B-movie.name
+gun_gun_NN I-movie.name
+
+show_show_VV O
+me_me_PP O
+the_the_DT O
+actor_actor_NN O
+of_of_IN O
+the_the_DT O
+movie_movie_NN O
+sirisiri_sirisiri_NN B-movie.name
+muvva_muvva_NN I-movie.name
+
+rocky_rocky_JJ B-movie.name
+2_2_CD O
+actor_actor_NN O
+
+who_who_WP O
+is_be_VBZ O
+chewbakka_chewbakka_NN B-character.name
+
+who_who_WP O
+stared_stare_VVD O
+in_in_IN O
+i_i_NP B-movie.name
+love_love_NN I-movie.name
+lucy_lucy_NN I-movie.name
+
+apollo_apollo_NN B-movie.name
+thirteen_thirteen_CD I-movie.name
+cast_cast_NN O
+members_member_NNS O
+
+can_can_MD O
+you_you_PP O
+tell_tell_VV O
+me_me_PP O
+more_more_JJR O
+about_about_IN O
+the_the_DT O
+cast_cast_NN O
+and_and_CC O
+crew_crew_NN O
+of_of_IN O
+the_the_DT O
+movie_movie_NN O
+apollo_apollo_NN B-movie.name
+thirteen_thirteen_CD I-movie.name
+
+cast_cast_NN O
+and_and_CC O
+crew_crew_NN O
+for_for_IN O
+apollo_apollo_NN B-movie.name
+thirteen_thirteen_CD I-movie.name
+
+castmembers_castmembers_NNS O
+of_of_IN O
+apollo_apollo_NN B-movie.name
+thirteen_thirteen_CD I-movie.name
+
+complete_complete_JJ O
+cast_cast_NN O
+and_and_CC O
+crew_crew_NN O
+of_of_IN O
+apollo_apollo_NN B-movie.name
+thirteen_thirteen_CD I-movie.name
+
+find_find_VV O
+for_for_IN O
+information_information_NN O
+about_about_IN O
+the_the_DT O
+cast_cast_NN O
+of_of_IN O
+appolo_appolo_NP B-movie.name
+thirteen_thirteen_CD I-movie.name
+
+find_find_VV O
+info_info_NN O
+on_on_IN O
+the_the_DT O
+crew_crew_NN O
+of_of_IN O
+apollo_apollo_NN B-movie.name
+thirteen_thirteen_CD I-movie.name
+
+give_give_VV O
+me_me_PP O
+more_more_JJR O
+facts_fact_NNS O
+about_about_IN O
+the_the_DT O
+cast_cast_NN O
+and_and_CC O
+crew_crew_NN O
+of_of_IN O
+the_the_DT O
+movie_movie_NN O
+apollo_apollo_NN B-movie.name
+thirteen_thirteen_CD I-movie.name
+
+i_i_NNS O
+need_need_VVP O
+to_to_TO O
+know_know_VV O
+in_in_IN O
+detail_detail_NN O
+about_about_IN O
+the_the_DT O
+cast_cast_NN O
+and_and_CC O
+crew_crew_NN O
+of_of_IN O
+the_the_DT O
+movie_movie_NN O
+apollo_apollo_NN B-movie.name
+thirteen_thirteen_CD I-movie.name
+
+i_i_NNS O
+want_want_VVP O
+to_to_TO O
+find_find_VV O
+information_information_NN O
+about_about_IN O
+the_the_DT O
+cast_cast_NN O
+of_of_IN O
+apollo_apollo_NN B-movie.name
+thirteen_thirteen_CD I-movie.name
+
+show_show_VV O
+me_me_PP O
+more_more_JJR O
+information_information_NN O
+about_about_IN O
+the_the_DT O
+cast_cast_NN O
+and_and_CC O
+crew_crew_NN O
+of_of_IN O
+the_the_DT O
+movie_movie_NN O
+apollo_apollo_NN B-movie.name
+thirteen_thirteen_CD I-movie.name
+
+what_what_WP O
+actors_actor_NNS O
+were_be_VBD O
+in_in_IN O
+dirty_dirty_JJ B-movie.name
+dancing_dancing_NN I-movie.name
+
+show_show_VV O
+me_me_PP O
+the_the_DT O
+actors_actor_NNS O
+in_in_IN O
+captain_captain_NN B-movie.name
+america_america_NN I-movie.name
+
+show_show_VV O
+me_me_PP O
+gilda_Gilda_NP B-movie.name
+'s_'s_POS O
+credits_credit_NNS O
+
+i_i_NP O
+can_can_MD O
+'t_'t_NP O
+remember_remember_VV O
+the_the_DT O
+lead_lead_JJ O
+guy_guy_NN O
+in_in_IN O
+the_the_DT B-movie.name
+avengers_avenger_NNS I-movie.name
+
+show_show_NN O
+cast_cast_VVD O
+list_list_NN O
+for_for_IN O
+the_the_DT B-movie.name
+avergers_avergers_NNS I-movie.name
+
+who_who_WP O
+plays_play_VVZ O
+nemo_nemo_NN B-character.name
+in_in_IN O
+finding_find_VVG B-movie.name
+nemo_nemo_NN I-movie.name
+
+find_find_VV O
+cast_cast_NN O
+and_and_CC O
+crew_crew_NN O
+for_for_IN O
+the_the_DT O
+movie_movie_NN O
+finding_find_VVG B-movie.name
+nemo_nemo_NN I-movie.name
+
+show_show_VV O
+me_me_PP O
+the_the_DT O
+cast_cast_NN O
+and_and_CC O
+crew_crew_NN O
+for_for_IN O
+finding_find_VVG B-movie.name
+nemo_nemo_NN I-movie.name
+
+show_show_VV O
+me_me_PP O
+the_the_DT O
+cast_cast_NN O
+of_of_IN O
+finding_find_VVG B-movie.name
+nemo_nemo_NN I-movie.name
+
+who_who_WP O
+are_be_VBP O
+the_the_DT O
+main_main_JJ O
+voices_voice_NNS O
+in_in_IN O
+finding_find_VVG B-movie.name
+nemo_nemo_NN I-movie.name
+
+who_who_WP O
+starred_star_VVD O
+in_in_IN O
+finding_find_VVG B-movie.name
+nemo_nemo_NN I-movie.name
+
+who_who_WP O
+stars_star_VVZ O
+in_in_IN O
+finding_find_VVG B-movie.name
+nemo_nemo_NN I-movie.name
+
+who_who_WP O
+was_be_VBD O
+the_the_DT O
+main_main_JJ O
+character_character_NN O
+in_in_IN O
+men_man_NNS B-movie.name
+in_in_IN I-movie.name
+black_black_JJ I-movie.name
+3_3_CD I-movie.name
+
+can_can_NN O
+i_i_NNS O
+see_see_VVP O
+the_the_DT O
+credits_credit_NNS O
+for_for_IN O
+dirty_dirty_JJ B-movie.name
+dancing_dancing_NN I-movie.name
+
+cast_cast_VVN O
+of_of_IN O
+dirty_dirty_JJ B-movie.name
+dancing_dancing_NN I-movie.name
+
+find_find_VV O
+cast_cast_NN O
+and_and_CC O
+crew_crew_NN O
+for_for_IN O
+dirty_dirty_JJ B-movie.name
+dancing_dancing_NN I-movie.name
+
+search_search_NN O
+cast_cast_NN O
+and_and_CC O
+crew_crew_NN O
+for_for_IN O
+dirty_dirty_JJ B-movie.name
+dancing_dancing_NN I-movie.name
+
+search_search_NN O
+for_for_IN O
+the_the_DT O
+cast_cast_NN O
+and_and_CC O
+crew_crew_NN O
+for_for_IN O
+the_the_DT O
+movie_movie_NN O
+dirty_dirty_JJ B-movie.name
+dancing_dancing_NN I-movie.name
+
+show_show_VV O
+me_me_PP O
+the_the_DT O
+cast_cast_NN O
+and_and_CC O
+list_list_NN O
+for_for_IN O
+dirty_dirty_JJ B-movie.name
+dancing_dancing_NN I-movie.name
+
+who_who_WP O
+starred_star_VVD O
+in_in_IN O
+dirty_dirty_JJ B-movie.name
+dancing_dancing_NN I-movie.name
+
+who_who_WP O
+starred_star_VVD O
+in_in_IN O
+dirty_dirty_JJ B-movie.name
+dancing_dancing_NN I-movie.name
+
+who_who_WP O
+were_be_VBD O
+the_the_DT O
+stars_star_NNS O
+of_of_IN O
+dirty_dirty_JJ B-movie.name
+dancing_dancing_NN I-movie.name
+
+who_who_WP O
+was_be_VBD O
+the_the_DT O
+male_male_JJ O
+star_star_NN O
+of_of_IN O
+titanic_titanic_JJ B-movie.name
+
+who_who_WP O
+starred_star_VVD O
+in_in_IN O
+taxi_taxi_NN B-movie.name
+
+who_who_WP O
+played_play_VVD O
+in_in_IN O
+the_the_DT B-movie.name
+oranges_orange_NNS I-movie.name
+
+actors_actor_NNS O
+for_for_IN O
+life_life_NN B-movie.name
+is_be_VBZ I-movie.name
+beautiful_beautiful_JJ I-movie.name
+
+who_who_WP O
+are_be_VBP O
+the_the_DT O
+lead_lead_JJ O
+actors_actor_NNS O
+in_in_IN O
+life_life_NN B-movie.name
+is_be_VBZ I-movie.name
+beautiful_beautiful_JJ I-movie.name
+
+find_find_VV O
+the_the_DT O
+male_male_JJ O
+actor_actor_NN O
+from_from_IN O
+the_the_DT O
+movie_movie_NN O
+born_bear_VVN B-movie.name
+free_free_JJ I-movie.name
+
+actor_actor_NN O
+from_from_IN O
+iron_iron_NN B-movie.name
+man_man_NN I-movie.name
+
+shows_show_NNS O
+actors_actor_NNS O
+in_in_IN O
+shoot_shoot_NN B-movie.name
+to_to_TO I-movie.name
+kill_kill_VV I-movie.name
+
+which_which_WDT O
+actors_actor_NNS O
+starred_star_VVN O
+in_in_IN O
+hitch_hitch_NN B-movie.name
+
+who_who_WP O
+are_be_VBP O
+all_all_RB O
+of_of_IN O
+the_the_DT O
+actors_actor_NNS O
+in_in_IN O
+hitch_hitch_NN B-movie.name
+
+who_who_WP O
+was_be_VBD O
+the_the_DT O
+lead_lead_JJ O
+actor_actor_NN O
+in_in_IN O
+hitch_hitch_NN B-movie.name
+
+who_who_WP O
+starred_star_VVD O
+in_in_IN O
+dark_dark_JJ B-movie.name
+knight_knight_NN I-movie.name
+rising_rise_VVG I-movie.name
+
+who_who_WP O
+played_play_VVD O
+nick_nick_NN B-character.name
+fury_fury_NN I-character.name
+in_in_IN O
+the_the_DT B-movie.name
+avengers_avenger_NNS I-movie.name
+
+who_who_WP O
+was_be_VBD O
+the_the_DT O
+lead_lead_JJ O
+actor_actor_NN O
+in_in_IN O
+the_the_DT B-movie.name
+avengers_avenger_NNS I-movie.name
+
+what_what_WP O
+was_be_VBD O
+the_the_DT O
+cast_cast_NN O
+of_of_IN O
+black_black_JJ B-movie.name
+swan_swan_NN I-movie.name
+
+who_who_WP O
+acted_act_VVD O
+in_in_IN O
+black_black_JJ B-movie.name
+swan_swan_NN I-movie.name
+
+who_who_WP O
+was_be_VBD O
+in_in_IN O
+black_black_JJ B-movie.name
+swan_swan_NN I-movie.name
+
+who_who_WP O
+was_be_VBD O
+the_the_DT O
+lead_lead_NN O
+in_in_IN O
+black_black_JJ B-movie.name
+swan_swan_NN I-movie.name
+
+actors_actor_NNS O
+in_in_IN O
+star_star_NN B-movie.name
+wars_war_NNS I-movie.name
+four_four_CD I-movie.name
+
+what_what_WP O
+was_be_VBD O
+the_the_DT O
+actor_actor_NN O
+who_who_WP O
+played_play_VVD O
+esme_esme_NN B-character.name
+in_in_IN O
+twilight_twilight_NN B-movie.name
+
+who_who_WP O
+played_play_VVD O
+esme_esme_NN B-character.name
+in_in_IN O
+twilight_twilight_NN B-movie.name
+
+who_who_WP O
+starred_star_VVD O
+in_in_IN O
+the_the_DT B-movie.name
+parent_parent_NN I-movie.name
+trap_trap_NN I-movie.name
+
+cast_cast_NN O
+and_and_CC O
+crew_crew_NN O
+for_for_IN O
+hitch_hitch_NN B-movie.name
+
+cast_cast_NN O
+and_and_CC O
+crew_crew_NN O
+of_of_IN O
+hitch_hitch_NN B-movie.name
+
+cast_cast_NN O
+hitch_hitch_NN B-movie.name
+
+hitch_hitch_NN B-movie.name
+crew_crew_NN O
+
+list_list_NN O
+cast_cast_NN O
+hitch_hitch_NN B-movie.name
+
+show_show_VV O
+me_me_PP O
+hitch_hitch_NN B-movie.name
+'s_'s_POS O
+cast_cast_NN O
+
+show_show_VV O
+the_the_DT O
+cast_cast_NN O
+of_of_IN O
+hitch_hitch_NN B-movie.name
+
+what_what_WP O
+actors_actor_NNS O
+appeared_appear_VVD O
+in_in_IN O
+the_the_DT O
+movie_movie_NN O
+hitch_hitch_NN B-movie.name
+
+what_what_WP O
+actors_actor_NNS O
+played_play_VVN O
+in_in_IN O
+the_the_DT O
+movies_movie_NNS O
+hitch_hitch_NN B-movie.name
+
+what_what_WP O
+was_be_VBD O
+the_the_DT O
+cast_cast_NN O
+of_of_IN O
+hitch_hitch_NN B-movie.name
+
+who_who_WP O
+starred_star_VVD O
+in_in_IN O
+hitch_hitch_NN B-movie.name
+
+who_who_WP O
+starred_star_VVD O
+in_in_IN O
+the_the_DT O
+movie_movie_NN O
+hitch_hitch_NN B-movie.name
+
+who_who_WP O
+stars_star_VVZ O
+in_in_IN O
+hitch_hitch_NN B-movie.name
+
+who_who_WP O
+was_be_VBD O
+in_in_IN O
+hitch_hitch_NN B-movie.name
+
+who_who_WP O
+was_be_VBD O
+in_in_IN O
+the_the_DT O
+movie_movie_NN O
+hitch_hitch_NN B-movie.name
+
+who_who_WP O
+was_be_VBD O
+the_the_DT O
+star_star_NN O
+in_in_IN O
+hitch_hitch_NN B-movie.name
+
+voice_voice_NN O
+actor_actor_NN O
+for_for_IN O
+homer_homer_NN B-character.name
+simpson_simpson_NN I-character.name
+
+who_who_WP O
+is_be_VBZ O
+in_in_IN O
+the_the_DT O
+movie_movie_NN O
+two_two_CD B-movie.name
+can_can_MD I-movie.name
+play_play_VV I-movie.name
+that_that_DT I-movie.name
+game_game_NN I-movie.name
+
+actress_actress_NN O
+from_from_IN O
+gone_go_VVN B-movie.name
+with_with_IN I-movie.name
+the_the_DT I-movie.name
+wind_wind_NN I-movie.name
+
+who_who_WP O
+are_be_VBP O
+the_the_DT O
+lead_lead_JJ O
+actors_actor_NNS O
+in_in_IN O
+this_this_DT O
+movie_movie_NN O
+
+show_show_VV O
+me_me_PP O
+information_information_NN O
+on_on_IN O
+the_the_DT O
+cast_cast_NN O
+and_and_CC O
+crew_crew_NN O
+of_of_IN O
+pitchperfect_pitchperfect_NN B-movie.name
+
+actors_actor_NNS O
+in_in_IN O
+house_house_NN B-movie.name
+at_at_IN I-movie.name
+the_the_DT I-movie.name
+end_end_NN I-movie.name
+of_of_IN I-movie.name
+the_the_DT I-movie.name
+street_street_NN I-movie.name
+
+can_can_MD O
+i_i_NNS O
+see_see_VV O
+the_the_DT O
+cast_cast_NN O
+and_and_CC O
+crew_crew_NN O
+for_for_IN O
+house_house_NN B-movie.name
+at_at_IN I-movie.name
+the_the_DT I-movie.name
+end_end_NN I-movie.name
+of_of_IN I-movie.name
+the_the_DT I-movie.name
+street_street_NN I-movie.name
+
+cast_cast_NN O
+and_and_CC O
+crew_crew_NN O
+for_for_IN O
+house_house_NN B-movie.name
+at_at_IN I-movie.name
+the_the_DT I-movie.name
+end_end_NN I-movie.name
+of_of_IN I-movie.name
+the_the_DT I-movie.name
+street_street_NN I-movie.name
+
+cast_cast_NN O
+and_and_CC O
+crew_crew_NN O
+for_for_IN O
+the_the_DT O
+movie_movie_NN O
+house_house_NN B-movie.name
+at_at_IN I-movie.name
+the_the_DT I-movie.name
+end_end_NN I-movie.name
+of_of_IN I-movie.name
+the_the_DT I-movie.name
+street_street_NN I-movie.name
+
+who_who_WP O
+stars_star_VVZ O
+on_on_IN O
+the_the_DT O
+house_house_NN B-movie.name
+at_at_IN I-movie.name
+the_the_DT I-movie.name
+end_end_NN I-movie.name
+of_of_IN I-movie.name
+the_the_DT I-movie.name
+street_street_NN I-movie.name
+
+who_who_WP O
+is_be_VBZ O
+in_in_IN O
+movie_movie_NN O
+
+who_who_WP O
+is_be_VBZ O
+in_in_IN O
+movie_movie_NN O
+
+who_who_WP O
+is_be_VBZ O
+in_in_IN O
+movie_movie_NN O
+
+who_who_WP O
+acts_act_VVZ O
+in_in_IN O
+forager_forager_NN B-movie.name
+
+who_who_WP O
+stars_star_VVZ O
+in_in_IN O
+forager_forager_NN B-movie.name
+
+who_who_WP O
+is_be_VBZ O
+the_the_DT O
+cast_cast_NN O
+and_and_CC O
+crew_crew_NN O
+for_for_IN O
+now_now_RB B-movie.name
+forager_forager_NN I-movie.name
+
+who_who_WP O
+was_be_VBD O
+in_in_IN O
+now_now_RB B-movie.name
+
+actor_actor_NN O
+from_from_IN O
+modern_modern_JJ B-movie.name
+family_family_NN I-movie.name
+
+list_list_VV O
+the_the_DT O
+actors_actor_NNS O
+in_in_IN O
+forager_forager_NN B-movie.name
+
+cast_cast_NN O
+and_and_CC O
+crew_crew_NN O
+of_of_IN O
+go_go_NN B-movie.name
+
+who_who_WP O
+starred_star_VVD O
+in_in_RB O
+go_go_VV B-movie.name
+
+who_who_WP O
+was_be_VBD O
+the_the_DT O
+lead_lead_JJ O
+actress_actress_NN O
+in_in_IN O
+the_the_DT B-movie.name
+hunger_hunger_NN I-movie.name
+games_game_NNS I-movie.name
+
+show_show_NN O
+cast_cast_VVD O
+of_of_IN O
+movie_movie_NN O
+request_request_NN B-movie.name
+
+what_what_WP O
+is_be_VBZ O
+the_the_DT O
+cast_cast_NN O
+in_in_IN O
+resident_resident_JJ B-movie.name
+evil_evil_JJ I-movie.name
+retribution_retribution_NN I-movie.name
+
+list_list_VV O
+me_me_PP O
+the_the_DT O
+actors_actor_NNS O
+for_for_IN O
+top_top_JJ B-movie.name
+gun_gun_NN I-movie.name
+
+who_who_WP O
+was_be_VBD O
+the_the_DT B-character.name
+tin_tin_NN I-character.name
+man_man_NN I-character.name
+in_in_IN O
+wizard_wizard_NN B-movie.name
+of_of_IN I-movie.name
+oz_Oz_NP I-movie.name
+
+actress_actress_NN O
+in_in_IN O
+hum_hum_NN B-movie.name
+tum_tum_NN I-movie.name
+
+who_who_WP O
+was_be_VBD O
+the_the_DT O
+actor_actor_NN O
+in_in_IN O
+movie_movie_NN O
+hum_hum_NN B-movie.name
+tum_tum_NN I-movie.name
+
+who_who_WP O
+is_be_VBZ O
+in_in_IN O
+barfi_barfi_NNS B-movie.name
+
+who_who_WP O
+was_be_VBD O
+the_the_DT O
+lead_lead_JJ O
+woman_woman_NN O
+in_in_IN O
+the_the_DT B-movie.name
+savages_savage_NNS I-movie.name
+
+find_find_VV O
+the_the_DT O
+name_name_NN O
+of_of_IN O
+the_the_DT O
+actor_actor_NN O
+who_who_WP O
+played_play_VVD O
+jack_jack_NN B-character.name
+in_in_IN O
+the_the_DT O
+movie_movie_NN O
+titanic_titanic_JJ B-movie.name
+
+the_the_DT O
+name_name_NN O
+of_of_IN O
+the_the_DT O
+male_male_JJ O
+lead_lead_NN O
+in_in_IN O
+the_the_DT O
+movie_movie_NN O
+titanic_titanic_JJ B-movie.name
+
+what_what_WP O
+is_be_VBZ O
+the_the_DT O
+name_name_NN O
+of_of_IN O
+the_the_DT O
+lead_lead_JJ O
+actor_actor_NN O
+in_in_IN O
+the_the_DT O
+titanic_titanic_JJ B-movie.name
+
+show_show_VV O
+me_me_PP O
+who_who_WP O
+played_play_VVD O
+what_what_WP O
+role_role_NN O
+in_in_IN O
+go_go_NN B-movie.name
+
+i_i_NP O
+cannot_can_MD O
+remember_remember_VV O
+the_the_DT O
+name_name_NN O
+of_of_IN O
+the_the_DT O
+actor_actor_NN O
+in_in_IN O
+pretty_pretty_JJ B-movie.name
+women_woman_NNS I-movie.name
+
+what_what_WP O
+is_be_VBZ O
+the_the_DT O
+name_name_NN O
+of_of_IN O
+the_the_DT O
+actor_actor_NN O
+who_who_WP O
+was_be_VBD O
+in_in_IN O
+the_the_DT B-movie.name
+parent_parent_NN I-movie.name
+trap_trap_NN I-movie.name
+
+find_find_VV O
+name_name_NN O
+of_of_IN O
+main_main_JJ O
+actor_actor_NN O
+in_in_IN O
+the_the_DT O
+movie_movie_NN O
+the_the_DT B-movie.name
+help_help_NN I-movie.name
+
+looking_look_VVG O
+for_for_IN O
+names_name_NNS O
+of_of_IN O
+crew_crew_NN O
+members_member_NNS O
+of_of_IN O
+apollo_apollo_NN B-movie.name
+thirteen_thirteen_CD I-movie.name
+
+i_i_NP O
+can_can_NN O
+'t_'t_NN O
+figure_figure_NN O
+out_out_IN O
+the_the_DT O
+name_name_NN O
+of_of_IN O
+the_the_DT O
+lead_lead_JJ O
+guy_guy_NN O
+in_in_IN O
+the_the_DT B-movie.name
+avengers_avenger_NNS I-movie.name
+
+what_what_WP O
+were_be_VBD O
+the_the_DT O
+names_name_NNS O
+of_of_IN O
+the_the_DT O
+ladies_lady_NNS O
+in_in_IN O
+facts_fact_NNS I-movie.name
+of_of_IN I-movie.name
+life_life_NN I-movie.name
+
+how_how_WRB O
+old_old_NN O
+is_be_VBZ O
+steven_steven_JJ B-person.name
+spielberg_spielberg_NN I-person.name
+
+when_when_WRB O
+steven_steven_JJ B-person.name
+spielberg_spielberg_NN I-person.name
+born_bear_VVN O
+
+what_what_WP O
+is_be_VBZ O
+tom_tom_NN B-person.name
+cruise_cruise_NN I-person.name
+'s_'s_POS O
+birthday_birthday_NN O
+
+when_when_WRB O
+was_be_VBD O
+tom_tom_NN B-person.name
+cruise_cruise_NN I-person.name
+born_bear_VVN O
+
+when_when_WRB O
+is_be_VBZ O
+will_will_NN B-person.name
+ferrell_ferrell_NN I-person.name
+'s_'s_POS O
+birthday_birthday_NN O
+
+how_how_WRB O
+old_old_NN O
+is_be_VBZ O
+kristen_kristen_NN B-person.name
+stewart_stewart_NN I-person.name
+
+how_how_WRB O
+much_much_RB O
+did_do_VVD O
+it_it_PP O
+cost_cost_VVD O
+to_to_TO O
+produce_produce_VV O
+the_the_DT B-movie.name
+dark_dark_JJ I-movie.name
+night_night_NN I-movie.name
+
+how_how_WRB O
+much_much_RB O
+did_do_VVD O
+the_the_DT B-movie.name
+dark_dark_JJ I-movie.name
+night_night_NN I-movie.name
+cost_cost_NN O
+to_to_TO O
+produce_produce_VV O
+
+what_what_WP O
+was_be_VBD O
+the_the_DT B-movie.name
+dark_dark_JJ I-movie.name
+night_night_NN I-movie.name
+budget_budget_NN O
+
+the_the_DT B-movie.name
+godfather_godfather_NN I-movie.name
+'s_'s_POS O
+budget_budget_NN O
+
+budget_budget_NN O
+for_for_IN O
+the_the_DT B-movie.name
+blind_blind_JJ I-movie.name
+side_side_NN I-movie.name
+
+i_i_NNS O
+want_want_VVP O
+to_to_TO O
+look_look_VV O
+up_up_RP O
+the_the_DT O
+budget_budget_NN O
+of_of_IN O
+freedom_freedom_NN B-movie.name
+writers_writer_NNS I-movie.name
+
+i_i_NP O
+would_would_MD O
+like_like_VV O
+to_to_TO O
+look_look_VV O
+up_up_RP O
+the_the_DT O
+budget_budget_NN O
+of_of_IN O
+freedom_freedom_NN B-movie.name
+writers_writer_NNS I-movie.name
+
+look_look_VV O
+for_for_IN O
+the_the_DT O
+budget_budget_NN O
+of_of_IN O
+freedom_freedom_NN B-movie.name
+writers_writer_NNS I-movie.name
+
+how_how_WRB O
+much_much_RB O
+was_be_VBD O
+hunger_hunger_NN B-movie.name
+games_game_NNS I-movie.name
+made_make_VVN O
+for_for_IN O
+
+how_how_WRB O
+much_much_RB O
+was_be_VBD O
+the_the_DT O
+budget_budget_NN O
+for_for_IN O
+the_the_DT B-movie.name
+hunger_hunger_NN I-movie.name
+games_game_NNS I-movie.name
+
+how_how_WRB O
+much_much_RB O
+did_do_VVD O
+black_black_JJ B-movie.name
+swan_swan_NN I-movie.name
+cost_cost_NN O
+
+how_how_WRB O
+much_much_RB O
+did_do_VVD O
+hollywood_hollywood_NN O
+pay_pay_NN O
+for_for_IN O
+black_black_JJ B-movie.name
+swan_swan_NN I-movie.name
+
+what_what_WP O
+was_be_VBD O
+the_the_DT O
+budget_budget_NN O
+for_for_IN O
+black_black_JJ B-movie.name
+swan_swan_NN I-movie.name
+
+what_what_WP O
+were_be_VBD O
+production_production_NN O
+costs_cost_NNS O
+for_for_IN O
+black_black_JJ B-movie.name
+swan_swan_NN I-movie.name
+
+what_what_WP O
+was_be_VBD O
+the_the_DT O
+budget_budget_NN O
+for_for_IN O
+wrong_wrong_JJ B-movie.name
+turn_turn_NN I-movie.name
+
+search_search_NN O
+for_for_IN O
+the_the_DT O
+budget_budget_NN O
+of_of_IN O
+step_step_NN B-movie.name
+up_up_RB I-movie.name
+
+budget_budget_NN O
+for_for_IN O
+titanic_titanic_JJ B-movie.name
+
+budget_budget_NN O
+for_for_IN O
+titanic_titanic_JJ B-movie.name
+
+budget_budget_NN O
+for_for_IN O
+titanic_titanic_JJ B-movie.name
+movie_movie_NN O
+
+how_how_WRB O
+much_much_RB O
+did_do_VVD O
+titanic_titanic_JJ B-movie.name
+cost_cost_NN O
+to_to_TO O
+make_make_VV O
+
+how_how_WRB O
+much_much_RB O
+was_be_VBD O
+the_the_DT O
+total_total_JJ O
+budget_budget_NN O
+for_for_IN O
+the_the_DT O
+titanic_titanic_JJ B-movie.name
+
+what_what_WP O
+was_be_VBD O
+titanic_titanic_JJ B-movie.name
+'s_'s_POS O
+budget_budget_NN O
+
+what_what_WP O
+was_be_VBD O
+the_the_DT O
+budget_budget_NN O
+for_for_IN O
+courageous_courageous_JJ B-movie.name
+
+what_what_WP O
+was_be_VBD O
+the_the_DT O
+budget_budget_NN O
+for_for_IN O
+facing_face_VVG B-movie.name
+the_the_DT I-movie.name
+giants_giant_NNS I-movie.name
+
+budget_budget_NN O
+of_of_IN O
+heroine_heroine_NN B-movie.name
+
+finding_find_VVG O
+the_the_DT O
+buget_buget_NN O
+of_of_IN O
+heroine_heroine_NN B-movie.name
+
+looking_look_VVG O
+of_of_IN O
+movie_movie_NN O
+heroine_heroine_NN B-movie.name
+'s_'s_POS O
+budget_budget_NN O
+
+what_what_WP O
+is_be_VBZ O
+the_the_DT O
+buget_buget_NN O
+of_of_IN O
+movie_movie_NN O
+heroine_heroine_NN B-movie.name
+
+how_how_WRB O
+much_much_RB O
+did_do_VVD O
+it_it_PP O
+cost_cost_VVD O
+to_to_TO O
+make_make_VV O
+jurassic_Jurassic_JJ B-movie.name
+park_park_NN I-movie.name
+
+what_what_WP O
+was_be_VBD O
+the_the_DT O
+budget_budget_NN O
+for_for_IN O
+jurassic_Jurassic_JJ B-movie.name
+park_park_NN I-movie.name
+
+how_how_WRB O
+much_much_RB O
+did_do_VVD O
+james_james_NNS B-director.name
+cameron_cameron_NN I-director.name
+have_have_VHP O
+to_to_TO O
+spend_spend_VV O
+to_to_TO O
+make_make_VV O
+avatar_avatar_NN B-movie.name
+
+avatar_avatar_NN B-movie.name
+must_must_MD O
+have_have_VH O
+cost_cost_VVN O
+a_a_DT O
+bundle_bundle_NN O
+
+did_do_VVD O
+the_the_DT O
+avatar_avatar_NN B-movie.name
+movie_movie_NN O
+have_have_VHP O
+a_a_DT O
+budget_budget_NN O
+for_for_IN O
+spending_spending_NN O
+
+get_get_VV O
+me_me_PP O
+info_info_NN O
+on_on_IN O
+the_the_DT O
+budget_budget_NN O
+for_for_IN O
+avatar_avatar_NN B-movie.name
+
+how_how_WRB O
+much_much_RB O
+did_do_VVD O
+it_it_PP O
+cost_cost_VVD O
+to_to_TO O
+make_make_VV O
+avatar_avatar_NN B-movie.name
+
+how_how_WRB O
+much_much_RB O
+did_do_VVD O
+the_the_DT O
+studio_studio_NN O
+spend_spend_VVP O
+to_to_TO O
+make_make_VV O
+avatar_avatar_NN B-movie.name
+
+how_how_WRB O
+much_much_JJ O
+money_money_NN O
+was_be_VBD O
+budgeted_budget_VVN O
+for_for_IN O
+the_the_DT O
+avatar_avatar_NN B-movie.name
+movie_movie_NN O
+
+i_i_NNS O
+need_need_VVP O
+to_to_TO O
+know_know_VV O
+the_the_DT O
+budget_budget_NN O
+of_of_IN O
+the_the_DT O
+movie_movie_NN O
+avatar_avatar_NN B-movie.name
+
+i_i_NNS O
+want_want_VVP O
+to_to_TO O
+know_know_VV O
+the_the_DT O
+avatar_avatar_NN B-movie.name
+'s_'s_POS O
+budget_budget_NN O
+
+list_list_VV O
+the_the_DT O
+budget_budget_NN O
+for_for_IN O
+avatar_avatar_NN B-movie.name
+
+show_show_VV O
+me_me_PP O
+what_what_WP O
+was_be_VBD O
+the_the_DT O
+budget_budget_NN O
+of_of_IN O
+the_the_DT O
+movie_movie_NN O
+avatar_avatar_NN B-movie.name
+
+what_what_WP O
+did_do_VVD O
+the_the_DT O
+movie_movie_NN O
+avatar_avatar_NN B-movie.name
+cost_cost_NN O
+to_to_TO O
+make_make_VV O
+
+what_what_WP O
+was_be_VBD O
+avatar_avatar_NN B-movie.name
+'s_'s_POS O
+budget_budget_NN O
+
+what_what_WP O
+was_be_VBD O
+the_the_DT O
+budget_budget_NN O
+for_for_IN O
+avatar_avatar_NN B-movie.name
+
+what_what_WP O
+was_be_VBD O
+the_the_DT O
+budget_budget_NN O
+for_for_IN O
+avatar_avatar_NN B-movie.name
+
+what_what_WP O
+was_be_VBD O
+the_the_DT O
+budget_budget_NN O
+for_for_IN O
+avatar_avatar_NN B-movie.name
+
+what_what_WP O
+was_be_VBD O
+the_the_DT O
+budget_budget_NN O
+for_for_IN O
+the_the_DT O
+movie_movie_NN O
+avatar_avatar_NN B-movie.name
+
+what_what_WP O
+was_be_VBD O
+the_the_DT O
+budget_budget_NN O
+of_of_IN O
+the_the_DT O
+movie_movie_NN O
+avatar_avatar_NN B-movie.name
+
+how_how_WRB O
+much_much_RB O
+did_do_VVD O
+the_the_DT O
+movie_movie_NN O
+avatar_avatar_NN B-movie.name
+cost_cost_NN O
+
+how_how_WRB O
+much_much_JJ O
+money_money_NN O
+was_be_VBD O
+spent_spend_VVN O
+on_on_IN O
+batman_batman_NN B-movie.name
+
+tell_tell_VV O
+me_me_PP O
+the_the_DT O
+budget_budget_NN O
+for_for_IN O
+the_the_DT O
+movie_movie_NN O
+batman_batman_NN B-movie.name
+
+how_how_WRB O
+much_much_RB O
+did_do_VVD O
+batman_batman_NN B-movie.name
+begins_begin_VVZ I-movie.name
+cost_cost_NN O
+
+how_how_WRB O
+much_much_RB O
+was_be_VBD O
+it_it_PP O
+to_to_TO O
+make_make_VV O
+the_the_DT O
+film_film_NN O
+batman_batman_NN B-movie.name
+begins_begin_VVZ I-movie.name
+
+budget_budget_NN O
+for_for_IN O
+the_the_DT B-movie.name
+avengers_avenger_NNS I-movie.name
+
+how_how_WRB O
+much_much_RB O
+did_do_VVD O
+it_it_PP O
+take_take_VVP O
+to_to_TO O
+make_make_VV O
+the_the_DT B-movie.name
+avengers_avenger_NNS I-movie.name
+
+what_what_WP O
+was_be_VBD O
+the_the_DT O
+budget_budget_NN O
+for_for_IN O
+the_the_DT B-movie.name
+avengers_avenger_NNS I-movie.name
+
+what_what_WP O
+was_be_VBD O
+the_the_DT O
+budget_budget_NN O
+for_for_IN O
+citizen_citizen_NN B-movie.name
+kane_kane_NN I-movie.name
+
+find_find_VV O
+out_out_IN O
+the_the_DT O
+budget_budget_NN O
+of_of_IN O
+cujo_cujo_NN B-movie.name
+
+budget_budget_NN O
+for_for_IN O
+gone_go_VVN B-movie.name
+with_with_IN I-movie.name
+the_the_DT I-movie.name
+wind_wind_NN I-movie.name
+
+gone_go_VVN B-movie.name
+with_with_IN I-movie.name
+the_the_DT I-movie.name
+wind_wind_NN I-movie.name
+'s_'s_POS O
+budget_budget_NN O
+information_information_NN O
+please_please_RB O
+
+gone_go_VVN B-movie.name
+with_with_IN I-movie.name
+the_the_DT I-movie.name
+wind_wind_NN I-movie.name
+'s_'s_POS O
+budget_budget_NN O
+
+show_show_VV O
+me_me_PP O
+the_the_DT O
+budget_budget_NN O
+for_for_IN O
+the_the_DT O
+movie_movie_NN O
+
+budget_budget_NN O
+for_for_IN O
+the_the_DT O
+hulk_hulk_NN B-movie.name
+
+budget_budget_NN O
+request_request_NN O
+for_for_IN O
+my_my_PP$ B-movie.name
+big_big_JJ I-movie.name
+fat_fat_JJ I-movie.name
+greek_Greek_NN I-movie.name
+wedding_wedding_NN I-movie.name
+
+find_find_VV O
+the_the_DT O
+budget_budget_NN O
+of_of_IN O
+my_my_PP$ B-movie.name
+big_big_JJ I-movie.name
+fat_fat_JJ I-movie.name
+greek_Greek_NN I-movie.name
+wedding_wedding_NN I-movie.name
+
+how_how_WRB O
+much_much_RB O
+did_do_VVD O
+my_my_PP$ B-movie.name
+big_big_JJ I-movie.name
+fat_fat_JJ I-movie.name
+greek_Greek_NN I-movie.name
+wedding_wedding_NN I-movie.name
+cost_cost_NN O
+
+what_what_WP O
+was_be_VBD O
+the_the_DT O
+budget_budget_NN O
+of_of_IN O
+my_my_PP$ B-movie.name
+big_big_JJ I-movie.name
+fat_fat_JJ I-movie.name
+greek_Greek_NN I-movie.name
+wedding_wedding_NN I-movie.name
+
+what_what_WP O
+was_be_VBD O
+the_the_DT O
+budget_budget_NN O
+for_for_IN O
+old_old_JJ B-movie.name
+school_school_NN I-movie.name
+
+what_what_WP O
+was_be_VBD O
+the_the_DT B-movie.name
+bourne_bourne_NN I-movie.name
+identity_identity_NN I-movie.name
+'s_'s_POS O
+budget_budget_NN O
+
+how_how_WRB O
+much_much_RB O
+did_do_VVD O
+it_it_PP O
+cost_cost_VVD O
+to_to_TO O
+produce_produce_VV O
+the_the_DT B-movie.name
+deer_deer_NN I-movie.name
+hunter_hunter_NN I-movie.name
+
+provide_provide_VV O
+the_the_DT O
+cost_cost_NN O
+for_for_IN O
+producing_produce_VVG O
+the_the_DT B-movie.name
+deer_deer_NN I-movie.name
+hunter_hunter_NN I-movie.name
+
+will_will_MD O
+you_you_PP O
+show_show_VV O
+the_the_DT O
+cost_cost_NN O
+to_to_TO O
+produce_produce_VV O
+the_the_DT B-movie.name
+deer_deer_NN I-movie.name
+hunter_hunter_NN I-movie.name
+
+what_what_WP O
+was_be_VBD O
+the_the_DT O
+budget_budget_NN O
+for_for_IN O
+the_the_DT B-movie.name
+hobbit_hobbit_NN I-movie.name
+
+can_can_MD O
+i_i_NNS O
+see_see_VV O
+what_what_WP O
+the_the_DT B-movie.name
+lion_lion_NN I-movie.name
+king_king_NN I-movie.name
+'s_'s_POS O
+budget_budget_NN O
+was_be_VBD O
+
+show_show_VV O
+me_me_PP O
+the_the_DT B-movie.name
+lion_lion_NN I-movie.name
+king_king_NN I-movie.name
+'s_'s_POS O
+budget_budget_NN O
+
+what_what_WP O
+was_be_VBD O
+the_the_DT O
+budget_budget_NN O
+for_for_IN O
+passion_passion_NN I-movie.name
+of_of_IN I-movie.name
+the_the_DT I-movie.name
+christ_christ_NN I-movie.name
+
+what_what_WP O
+was_be_VBD O
+the_the_DT O
+budget_budget_NN O
+for_for_IN O
+top_top_JJ B-movie.name
+gun_gun_NN I-movie.name
+
+what_what_WP O
+was_be_VBD O
+top_top_JJ B-movie.name
+gun_gun_NN I-movie.name
+'s_'s_POS O
+budget_budget_NN O
+
+who_who_WP O
+does_do_VVZ O
+ellen_ellen_JJ B-actor.name
+degeneres_degeneres_NNS I-actor.name
+play_play_VVP O
+in_in_IN O
+finding_find_VVG B-movie.name
+nemo_nemo_NN I-movie.name
+
+what_what_WP O
+character_character_NN O
+did_do_VVD O
+tom_tom_NN B-actor.name
+hanks_hank_NNS I-actor.name
+play_play_VVP O
+in_in_IN O
+apollo_apollo_NN B-movie.name
+thirteen_thirteen_CD I-movie.name
+
+lion_lion_NN B-movie.name
+king_king_NN I-movie.name
+characters_character_NNS O
+
+what_what_WP O
+character_character_NN O
+did_do_VVD O
+will_will_NN B-actor.name
+smith_smith_NN I-actor.name
+play_play_NN O
+in_in_IN O
+hitch_hitch_NN B-movie.name
+
+what_what_WP O
+role_role_NN O
+did_do_VVD O
+sarah_sarah_NN B-actor.name
+polley_polley_NNS I-actor.name
+play_play_VVP O
+in_in_RB O
+go_go_VV B-movie.name
+
+what_what_WP O
+was_be_VBD O
+kevin_kevin_NN B-actor.name
+james_james_NNS I-actor.name
+role_role_NN O
+in_in_IN O
+hitch_hitch_NN B-movie.name
+
+who_who_WP O
+directed_direct_VVD O
+the_the_DT O
+music_music_NN O
+in_in_IN O
+gone_go_VVN B-movie.name
+with_with_IN I-movie.name
+the_the_DT I-movie.name
+wind_wind_NN I-movie.name
+
+show_show_VV O
+me_me_PP O
+the_the_DT O
+music_music_NN O
+composer_composer_NN O
+for_for_IN O
+the_the_DT O
+movie_movie_NN O
+
+who_who_WP O
+directed_direct_VVD O
+the_the_DT O
+musical_musical_JJ O
+score_score_NN O
+in_in_IN O
+barfi_barfi_NNS B-movie.name
+
+how_how_WRB O
+many_many_JJ O
+films_film_NNS O
+did_do_VVD O
+ed_editor_NN B-actor.name
+harris_harris_NNS I-actor.name
+do_do_VVP O
+with_with_IN O
+tom_tom_NN B-actor.name
+hanks_hank_NNS I-actor.name
+
+how_how_WRB O
+many_many_JJ O
+movies_movie_NNS O
+were_be_VBD O
+released_release_VVN O
+on_on_IN O
+nine_nine_CD B-movie.release_date
+twenty_twenty_CD I-movie.release_date
+eight_eight_CD I-movie.release_date
+twelve_twelve_NN I-movie.release_date
+
+how_how_WRB O
+many_many_JJ O
+movies_movie_NNS O
+were_be_VBD O
+filmed_film_VVN O
+in_in_IN O
+asia_Asia_NN B-movie.location
+
+how_how_WRB O
+many_many_JJ O
+films_film_NNS O
+directed_direct_VVN O
+by_by_IN O
+barbra_barbra_NN B-director.name
+streisand_streisand_NN I-director.name
+have_have_VHP O
+been_be_VBN O
+shot_shoot_VVN O
+in_in_IN O
+the_the_DT O
+czech_Czech_NN B-movie.location
+republic_republic_NN I-movie.location
+
+how_how_WRB O
+many_many_JJ O
+movies_movie_NNS O
+has_have_VHZ O
+albert_albert_NN B-producer.name
+ruddy_ruddy_JJ I-producer.name
+produced_produce_VVD O
+
+how_how_WRB O
+many_many_JJ O
+movies_movie_NNS O
+has_have_VHZ O
+lionsgate_lionsgate_RB B-producer.name
+done_do_VVN O
+
+how_how_WRB O
+many_many_JJ O
+movies_movie_NNS O
+did_do_VVD O
+richard_richard_NN B-director.name
+lester_lester_NN I-director.name
+direct_direct_JJ O
+
+how_how_WRB O
+many_many_JJ O
+films_film_NNS O
+has_have_VHZ O
+taye_taye_NNS B-actor.name
+diggs_diggs_NNS I-actor.name
+been_be_VBN O
+in_in_IN O
+
+how_how_WRB O
+many_many_JJ O
+movies_movie_NNS O
+has_have_VHZ O
+ray_ray_NN B-producer.name
+stark_stark_RB I-producer.name
+produced_produce_VVN O
+
+how_how_WRB O
+many_many_JJ O
+producers_producer_NNS O
+did_do_VVD O
+the_the_DT O
+movie_movie_NN O
+the_the_DT O
+hitch_hitch_NN B-movie.name
+have_have_VHP O
+
+how_how_WRB O
+many_many_JJ O
+movies_movie_NNS O
+has_have_VHZ O
+charles_charles_NNS B-director.name
+vidor_vidor_NN I-director.name
+directed_direct_VVD O
+
+how_how_WRB O
+many_many_JJ O
+movies_movie_NNS O
+has_have_VHZ O
+kristen_Kristen_NP B-actor.name
+stewart_Stewart_NP I-actor.name
+made_make_VVD O
+
+i_i_NNS O
+wonder_wonder_VVP O
+how_how_WRB O
+many_many_JJ O
+movies_movie_NNS O
+alfred_alfred_NN B-actor.name
+hitchcock_hitchcock_NN I-actor.name
+was_be_VBD O
+in_in_IN O
+that_that_WDT O
+he_he_PP O
+directed_direct_VVD O
+
+how_how_WRB O
+many_many_JJ O
+movies_movie_NNS O
+has_have_VHZ O
+steven_steven_JJ B-director.name
+spielberg_spielberg_NN I-director.name
+directed_direct_VVD O
+
+how_how_WRB O
+many_many_JJ O
+films_film_NNS O
+did_do_VVD O
+robert_robert_JJ B-director.name
+wise_wise_JJ I-director.name
+direct_direct_JJ O
+
+how_how_WRB O
+many_many_JJ O
+movies_movie_NNS O
+has_have_VHZ O
+tom_tom_NN B-actor.name
+cruise_cruise_NN I-actor.name
+starred_star_VVN O
+in_in_IN O
+
+how_how_WRB O
+many_many_JJ O
+movies_movie_NNS O
+did_do_VVD O
+scorsese_scorsese_NN B-director.name
+direct_direct_JJ O
+
+how_how_WRB O
+many_many_JJ O
+movies_movie_NNS O
+has_have_VHZ O
+angelina_angelina_NN B-actor.name
+jolie_jolie_NN I-actor.name
+been_be_VBN O
+in_in_IN O
+
+how_how_WRB O
+many_many_JJ O
+movies_movie_NNS O
+did_do_VVD O
+victor_victor_NN B-director.name
+fleming_fleming_VVG I-director.name
+direct_direct_JJ O
+
+how_how_WRB O
+many_many_JJ O
+movies_movie_NNS O
+has_have_VHZ O
+woody_woody_JJ B-director.name
+allen_allen_NN I-director.name
+directed_direct_VVD O
+
+how_how_WRB O
+many_many_JJ O
+movies_movie_NNS O
+has_have_VHZ O
+darla_darla_NN B-producer.name
+anderson_anderson_NN I-producer.name
+produced_produce_VVD O
+
+how_how_WRB O
+many_many_JJ O
+films_film_NNS O
+did_do_VVD O
+alfred_alfred_NN B-director.name
+hitchcock_hitchcock_NN I-director.name
+direct_direct_JJ O
+
+how_how_WRB O
+many_many_JJ O
+movies_movie_NNS O
+did_do_VVD O
+hitchcock_hitchcock_NN B-director.name
+direct_direct_JJ O
+
+how_how_WRB O
+many_many_JJ O
+movies_movie_NNS O
+has_have_VHZ O
+tom_tom_NN B-actor.name
+hanks_hank_NNS I-actor.name
+starred_star_VVN O
+in_in_IN O
+
+how_how_WRB O
+many_many_JJ O
+woody_woody_JJ B-director.name
+allen_allen_NN I-director.name
+movies_movie_NNS O
+starred_star_VVD O
+diane_Diane_NP B-actor.name
+keaton_Keaton_NP I-actor.name
+
+how_how_WRB O
+many_many_JJ O
+films_film_NNS O
+has_have_VHZ O
+ed_edited_VVN B-actor.name
+harris_harris_NNS I-actor.name
+starred_star_VVN O
+in_in_IN O
+
+how_how_WRB O
+many_many_JJ O
+movies_movie_NNS O
+are_be_VBP O
+made_make_VVN O
+in_in_IN O
+the_the_DT O
+united_unite_VVN B-country.name
+states_state_NNS I-country.name
+
+where_where_WRB O
+was_be_VBD O
+footnote_footnote_NN B-movie.name
+made_make_VVN O
+
+what_what_WP O
+country_country_NN O
+did_do_VVD O
+the_the_DT B-movie.name
+flowers_flower_NNS I-movie.name
+of_of_IN I-movie.name
+war_war_NN I-movie.name
+come_come_VVN O
+from_from_IN O
+
+country_country_NN O
+of_of_IN O
+le_le_DT B-movie.name
+havre_havre_NN I-movie.name
+
+what_what_WP O
+country_country_NN O
+does_do_VVZ O
+the_the_DT O
+movie_movie_NN O
+kati_kati_NN B-movie.name
+patang_patang_NN I-movie.name
+comes_come_VVZ O
+from_from_IN O
+
+show_show_VV O
+me_me_PP O
+the_the_DT O
+name_name_NN O
+of_of_IN O
+the_the_DT O
+country_country_NN O
+for_for_IN O
+the_the_DT O
+movie_movie_NN O
+thoda_thoda_NN B-movie.name
+pyaar_pyaar_NN I-movie.name
+thoda_thoda_NN I-movie.name
+magic_magic_NN I-movie.name
+
+can_can_MD O
+you_you_PP O
+tell_tell_VV O
+me_me_PP O
+which_which_WDT O
+country_country_NN O
+the_the_DT O
+movie_movie_NN O
+kati_kati_NN B-movie.name
+patang_patang_NN I-movie.name
+comes_come_VVZ O
+from_from_IN O
+
+i_i_NNS O
+need_need_VVP O
+to_to_TO O
+know_know_VV O
+the_the_DT O
+name_name_NN O
+of_of_IN O
+the_the_DT O
+country_country_NN O
+to_to_TO O
+which_which_WDT O
+the_the_DT O
+movie_movie_NN O
+kati_kati_NN B-movie.name
+patang_patang_NN I-movie.name
+belongs_belong_VVZ O
+to_to_TO O
+
+show_show_VV O
+me_me_PP O
+the_the_DT O
+name_name_NN O
+of_of_IN O
+the_the_DT O
+country_country_NN O
+from_from_IN O
+which_which_WDT O
+the_the_DT O
+movie_movie_NN O
+kati_kati_NN B-movie.name
+patang_patang_NN I-movie.name
+comes_come_VVZ O
+
+can_can_MD O
+you_you_PP O
+tell_tell_VV O
+me_me_PP O
+which_which_WDT O
+country_country_NN O
+does_do_VVZ O
+thoda_thoda_NN B-movie.name
+pyaar_pyaar_NN I-movie.name
+thoda_thoda_NN I-movie.name
+magic_magic_NN I-movie.name
+belongs_belong_VVZ O
+to_to_TO O
+
+give_give_VV O
+me_me_PP O
+the_the_DT O
+name_name_NN O
+of_of_IN O
+the_the_DT O
+country_country_NN O
+for_for_IN O
+the_the_DT O
+movie_movie_NN O
+thoda_thoda_NN B-movie.name
+pyaar_pyaar_NN I-movie.name
+thoda_thoda_NN I-movie.name
+magic_magic_NN I-movie.name
+
+i_i_NNS O
+need_need_VVP O
+to_to_TO O
+know_know_VV O
+which_which_WDT O
+country_country_NN O
+does_do_VVZ O
+the_the_DT O
+movie_movie_NN O
+thoda_thoda_NN B-movie.name
+pyaar_pyaar_NN I-movie.name
+thoda_thoda_NN I-movie.name
+magic_magic_NN I-movie.name
+belongs_belong_VVZ O
+to_to_TO O
+
+country_country_NN O
+that_that_WDT O
+made_make_VVD O
+a_a_DT B-movie.name
+separation_separation_NN I-movie.name
+
+what_what_WP O
+country_country_NN O
+is_be_VBZ O
+godzilla_godzilla_NN B-movie.name
+
+country_country_NN O
+of_of_IN O
+weekend_weekend_NN B-movie.name
+
+i_i_NP O
+would_would_MD O
+like_like_VV O
+to_to_TO O
+search_search_VV O
+for_for_IN O
+what_what_WP O
+country_country_NN O
+cell_cell_NN B-movie.name
+21_@card@_CD I-movie.name
+is_be_VBZ O
+from_from_IN O
+
+look_look_VV O
+for_for_IN O
+what_what_WP O
+country_country_NN O
+cell_cell_NN B-movie.name
+21_@card@_CD I-movie.name
+is_be_VBZ O
+from_from_IN O
+
+what_what_WP O
+country_country_NN O
+is_be_VBZ O
+cell_cell_NN B-movie.name
+21_@card@_CD I-movie.name
+from_from_IN O
+
+what_what_WP O
+country_country_NN O
+did_do_VVD O
+black_black_JJ B-movie.name
+beauty_beauty_NN I-movie.name
+come_come_VVN O
+from_from_IN O
+
+i_i_NNS O
+need_need_VVP O
+to_to_TO O
+know_know_VV O
+where_where_WRB O
+trainspotting_trainspotting_NN B-movie.name
+comes_come_VVZ O
+from_from_IN O
+
+tell_tell_VV O
+me_me_PP O
+where_where_WRB O
+is_be_VBZ O
+trainspotting_trainspotting_VVG B-movie.name
+from_from_IN O
+
+which_which_WDT O
+country_country_NN O
+made_make_VVD O
+elizabeth_elizabeth_NN B-movie.name
+
+where_where_WRB O
+was_be_VBD O
+trainspotting_trainspotting_VVG B-movie.name
+made_make_VVN O
+
+what_what_WP O
+country_country_NN O
+did_do_VVD O
+shindler_shindler_NN B-movie.name
+'s_'s_POS I-movie.name
+list_list_NN I-movie.name
+come_come_VVN O
+from_from_IN O
+
+which_which_WDT O
+country_country_NN O
+is_be_VBZ O
+this_this_DT O
+movie_movie_NN O
+from_from_IN O
+
+show_show_VV O
+me_me_PP O
+where_where_WRB O
+black_black_JJ B-movie.name
+swan_swan_NN I-movie.name
+is_be_VBZ O
+from_from_IN O
+
+where_where_WRB O
+was_be_VBD O
+black_black_JJ B-movie.name
+swan_swan_NN I-movie.name
+produced_produce_VVD O
+
+what_what_WP O
+is_be_VBZ O
+the_the_DT O
+origin_origin_NN O
+of_of_IN O
+casa_casa_NN B-movie.name
+blanca_blanca_NN I-movie.name
+
+origin_origin_NN O
+of_of_IN O
+gone_go_VVN B-movie.name
+with_with_IN I-movie.name
+the_the_DT I-movie.name
+wind_wind_NN I-movie.name
+
+lion_lion_NN B-movie.name
+king_king_NN I-movie.name
+filmed_film_VVN O
+at_at_IN O
+
+where_where_WRB O
+was_be_VBD O
+rocky_rocky_JJ B-movie.name
+four_four_CD I-movie.name
+filmed_film_VVD O
+
+origin_origin_NN O
+of_of_IN O
+spanglish_spanglish_NN B-movie.name
+
+movie_movie_NN O
+made_make_VVD O
+where_where_WRB O
+
+what_what_WP O
+country_country_NN O
+is_be_VBZ O
+movie_movie_NN O
+from_from_IN O
+
+in_in_IN O
+what_what_WP O
+country_country_NN O
+was_be_VBD O
+movie_movie_NN O
+made_make_VVN O
+
+where_where_WRB O
+was_be_VBD O
+movie_movie_NN O
+made_make_VVN O
+
+is_be_VBZ O
+this_this_DT O
+a_a_DT O
+foreign_foreign_JJ O
+film_film_NN O
+
+is_be_VBZ O
+this_this_DT O
+a_a_DT O
+foreign_foreign_JJ O
+film_film_NN O
+
+what_what_WP O
+country_country_NN O
+was_be_VBD O
+kinky_kinky_JJ B-movie.name
+boots_boot_NNS I-movie.name
+made_make_VVN O
+in_in_IN O
+
+what_what_WP O
+country_country_NN O
+is_be_VBZ O
+outside_outside_IN B-movie.name
+the_the_DT I-movie.name
+law_law_NN I-movie.name
+from_from_IN O
+
+what_what_WP O
+country_country_NN O
+produced_produce_VVD O
+the_the_DT O
+movie_movie_NN O
+mirror_mirror_NN B-movie.name
+
+what_what_WP O
+country_country_NN O
+does_do_VVZ O
+mirror_mirror_NN B-movie.name
+come_come_VVN O
+from_from_IN O
+
+what_what_WP O
+country_country_NN O
+does_do_VVZ O
+les_les_FW B-movie.name
+miserable_miserable_JJ I-movie.name
+come_come_VVN O
+from_from_IN O
+
+what_what_WP O
+is_be_VBZ O
+the_the_DT O
+origin_origin_NN O
+country_country_NN O
+of_of_IN O
+mirror_mirror_NN B-movie.name
+
+in_in_IN O
+what_what_WP O
+country_country_NN O
+was_be_VBD O
+the_the_DT O
+movie_movie_NN O
+mirror_mirror_NN B-movie.name
+produced_produce_VVD O
+
+where_where_WRB O
+was_be_VBD O
+the_the_DT O
+movie_movie_NN O
+mirror_mirror_NN B-movie.name
+produced_produce_VVD O
+
+when_when_WRB O
+can_can_MD O
+i_i_NNS O
+see_see_VV O
+top_top_JJ B-movie.name
+gun_gun_NN I-movie.name
+
+when_when_WRB O
+was_be_VBD O
+top_top_JJ B-movie.name
+gun_gun_NN I-movie.name
+released_release_VVN O
+
+when_when_WRB O
+does_do_VVZ O
+top_top_JJ B-movie.name
+gun_gun_NN I-movie.name
+come_come_VVN O
+out_out_RP O
+
+when_when_WRB O
+the_the_DT O
+movie_movie_NN O
+top_top_JJ B-movie.name
+gun_gun_NN I-movie.name
+was_be_VBD O
+released_release_VVN O
+
+when_when_WRB O
+did_do_VVD O
+richard_richard_JJ B-director.name
+lester_lester_NN I-director.name
+start_start_NN O
+directing_directing_NN O
+
+when_when_WRB O
+was_be_VBD O
+in_in_IN B-movie.name
+july_july_RB I-movie.name
+released_release_VVN O
+
+give_give_VV O
+me_me_PP O
+the_the_DT O
+release_release_NN O
+date_date_NN O
+for_for_IN O
+the_the_DT B-movie.name
+little_little_JJ I-movie.name
+mermaid_mermaid_NN I-movie.name
+
+what_what_WP O
+date_date_NN O
+was_be_VBD O
+spider_spider_NN B-movie.name
+released_release_VVN O
+
+can_can_MD O
+you_you_PP O
+tell_tell_VV O
+me_me_PP O
+when_when_WRB O
+24_@card@_CD B-movie.name
+will_will_MD O
+be_be_VB O
+released_release_VVN O
+
+do_do_VV O
+you_you_PP O
+know_know_VV O
+when_when_WRB O
+24_@card@_CD B-movie.name
+will_will_MD O
+be_be_VB O
+released_release_VVN O
+
+i_i_NNS O
+want_want_VVP O
+to_to_TO O
+know_know_VV O
+when_when_WRB O
+24_@card@_CD B-movie.name
+will_will_MD O
+be_be_VB O
+released_release_VVN O
+
+when_when_WRB O
+will_will_MD O
+24_@card@_RB B-movie.name
+be_be_VB O
+released_release_VVN O
+
+how_how_WRB O
+will_will_MD O
+i_i_NNS O
+know_know_VV O
+when_when_WRB O
+the_the_DT O
+movie_movie_NN O
+gone_go_VVN B-movie.name
+with_with_IN I-movie.name
+the_the_DT I-movie.name
+wind_wind_NN I-movie.name
+will_will_MD O
+be_be_VB O
+released_release_VVN O
+
+please_please_UH O
+tell_tell_VV O
+me_me_PP O
+when_when_WRB O
+was_be_VBD O
+the_the_DT O
+movie_movie_NN O
+gone_go_VVN B-movie.name
+with_with_IN I-movie.name
+the_the_DT I-movie.name
+wind_wind_NN I-movie.name
+released_release_VVD O
+
+please_please_UH O
+tell_tell_VV O
+me_me_PP O
+when_when_WRB O
+will_will_MD O
+the_the_DT O
+movie_movie_NN O
+gone_go_VVN B-movie.name
+with_with_IN I-movie.name
+the_the_DT I-movie.name
+wind_wind_NN I-movie.name
+will_will_MD O
+be_be_VB O
+released_release_VVN O
+
+when_when_WRB O
+will_will_MD O
+the_the_DT O
+movie_movie_NN O
+gone_go_VVN B-movie.name
+with_with_IN I-movie.name
+the_the_DT I-movie.name
+wind_wind_NN I-movie.name
+be_be_VB O
+released_release_VVN O
+
+do_do_VV O
+you_you_PP O
+know_know_VV O
+when_when_WRB O
+this_this_DT O
+movie_movie_NN O
+is_be_VBZ O
+available_available_JJ O
+
+what_what_WP O
+year_year_NN O
+was_be_VBD O
+the_the_DT O
+movie_movie_NN O
+released_release_VVD O
+
+which_which_WDT O
+decade_decade_NN O
+did_do_VVD O
+the_the_DT O
+movie_movie_NN O
+come_come_VVN O
+out_out_RP O
+
+which_which_WDT O
+month_month_NN O
+was_be_VBD O
+the_the_DT O
+movie_movie_NN O
+released_release_VVD O
+
+release_release_NN O
+day_day_NN O
+for_for_IN O
+the_the_DT O
+movie_movie_NN O
+
+may_may_MD O
+i_i_NP O
+have_have_VHP O
+the_the_DT O
+date_date_NN O
+of_of_IN O
+release_release_NN O
+for_for_IN O
+this_this_DT O
+movie_movie_NN O
+
+release_release_NN O
+date_date_NN O
+for_for_IN O
+the_the_DT B-movie.name
+vow_vow_NN I-movie.name
+
+when_when_WRB O
+was_be_VBD O
+black_black_JJ B-movie.name
+beauty_beauty_NN I-movie.name
+released_release_VVN O
+
+titanic_titanic_JJ B-movie.name
+release_release_NN O
+date_date_NN O
+
+when_when_WRB O
+did_do_VVD O
+lionsgate_lionsgate_RB B-producer.name
+start_start_VV O
+making_make_VVG O
+movies_movie_NNS O
+
+search_search_VV O
+when_when_WRB O
+the_the_DT B-movie.name
+birds_bird_NNS I-movie.name
+will_will_MD O
+be_be_VB O
+released_release_VVN O
+
+what_what_WP O
+year_year_NN O
+did_do_VVD O
+spielberg_spielberg_RB B-director.name
+start_start_VV O
+directing_direct_VVG O
+movies_movie_NNS O
+
+the_the_DT B-movie.name
+godfather_godfather_NN I-movie.name
+came_come_VVD O
+out_out_RP O
+when_when_WRB O
+
+when_when_WRB O
+can_can_MD O
+i_i_NNS O
+see_see_VV O
+the_the_DT B-movie.name
+great_great_JJ I-movie.name
+gatsby_gatsby_NN I-movie.name
+
+when_when_WRB O
+will_will_MD O
+the_the_DT B-movie.name
+great_great_JJ I-movie.name
+gatsby_gatsby_NN I-movie.name
+be_be_VB O
+out_out_RP O
+
+when_when_WRB O
+will_will_MD O
+the_the_DT B-movie.name
+great_great_JJ I-movie.name
+gatsby_gatsby_NN I-movie.name
+be_be_VB O
+released_release_VVN O
+
+when_when_WRB O
+will_will_MD O
+jaws_jaw_NNS B-movie.name
+be_be_VB O
+released_release_VVN O
+
+when_when_WRB O
+will_will_MD O
+the_the_DT B-movie.name
+hobbit_hobbit_NN I-movie.name
+be_be_VB O
+released_release_VVN O
+
+what_what_WP O
+year_year_NN O
+was_be_VBD O
+the_the_DT B-movie.name
+hobbit_hobbit_NN I-movie.name
+relased_relased_VVD O
+
+what_what_WP O
+year_year_NN O
+did_do_VVD O
+the_the_DT O
+movie_movie_NN O
+grease_grease_NN B-movie.name
+open_open_JJ O
+
+movie_movie_NN O
+little_little_JJ B-movie.name
+women_woman_NNS I-movie.name
+release_release_NN O
+date_date_NN O
+is_be_VBZ O
+when_when_WRB O
+
+release_release_NN O
+date_date_NN O
+for_for_IN O
+little_little_JJ B-movie.name
+women_woman_NNS I-movie.name
+
+when_when_WRB O
+was_be_VBD O
+the_the_DT O
+movie_movie_NN O
+title_title_NN O
+little_little_JJ B-movie.name
+women_woman_NNS I-movie.name
+released_release_VVN O
+
+can_can_MD O
+you_you_PP O
+please_please_VV O
+tell_tell_VV O
+me_me_PP O
+when_when_WRB O
+was_be_VBD O
+karate_karate_NN B-movie.name
+kid_kid_NN I-movie.name
+released_release_VVD O
+
+karate_karate_NN B-movie.name
+kid_kid_NN I-movie.name
+release_release_NN O
+date_date_NN O
+
+find_find_VV O
+release_release_NN O
+date_date_NN O
+for_for_IN O
+karate_karate_NN B-movie.name
+kid_kid_NN I-movie.name
+
+when_when_WRB O
+did_do_VVD O
+dirty_dirty_JJ B-movie.name
+dancing_dancing_NN I-movie.name
+come_come_VVN O
+out_out_RP O
+
+when_when_WRB O
+was_be_VBD O
+dirty_dirty_JJ B-movie.name
+dancing_dancing_NN I-movie.name
+released_release_VVN O
+
+what_what_WP O
+year_year_NN O
+was_be_VBD O
+dirty_dirty_JJ B-movie.name
+dancing_dancing_NN I-movie.name
+released_release_VVN O
+
+when_when_WRB O
+was_be_VBD O
+dirty_dirty_JJ B-movie.name
+dancing_dancing_NN I-movie.name
+released_release_VVN O
+
+when_when_WRB O
+was_be_VBD O
+overboard_overboard_RB B-movie.name
+released_release_VVN O
+
+what_what_WP O
+year_year_NN O
+did_do_VVD O
+moon_moon_NN B-movie.name
+over_over_IN I-movie.name
+parador_parador_NN I-movie.name
+come_come_VVN O
+out_out_RP O
+
+release_release_NN O
+date_date_NN O
+for_for_IN O
+batman_batman_NN B-movie.name
+
+when_when_WRB O
+did_do_VVD O
+jurassic_Jurassic_JJ B-movie.name
+park_park_NN I-movie.name
+get_get_VV O
+released_release_VVN O
+
+lion_lion_NN B-movie.name
+king_king_NN I-movie.name
+release_release_NN O
+yr_Yr_NN O
+
+when_when_WRB O
+was_be_VBD O
+while_while_IN B-movie.name
+you_you_PP I-movie.name
+were_be_VBD I-movie.name
+sleeping_sleep_VVG I-movie.name
+released_release_VVN O
+
+what_what_WP O
+year_year_NN O
+was_be_VBD O
+ed_edited_VVN B-actor.name
+harris_harris_NN I-actor.name
+in_in_IN O
+in_in_IN O
+apollo_apollo_NN B-movie.name
+thirteen_thirteen_CD I-movie.name
+
+what_what_WP O
+was_be_VBD O
+the_the_DT O
+date_date_NN O
+when_when_WRB O
+welcome_welcome_JJ B-movie.name
+to_to_TO I-movie.name
+the_the_DT I-movie.name
+dollhouse_dollhouse_NN I-movie.name
+was_be_VBD O
+released_release_VVN O
+
+release_release_NN O
+date_date_NN O
+for_for_IN O
+toy_toy_JJ B-movie.name
+story_story_NN I-movie.name
+
+what_what_WP O
+was_be_VBD O
+the_the_DT O
+relase_relase_NN O
+date_date_NN O
+for_for_IN O
+men_man_NNS B-movie.name
+in_in_IN I-movie.name
+black_black_JJ I-movie.name
+
+when_when_WRB O
+was_be_VBD O
+life_life_NN B-movie.name
+is_be_VBZ I-movie.name
+beautiful_beautiful_JJ I-movie.name
+released_release_VVD O
+
+when_when_WRB O
+was_be_VBD O
+life_life_NN B-movie.name
+is_be_VBZ I-movie.name
+beautiful_beautiful_JJ I-movie.name
+released_release_VVD O
+
+when_when_WRB O
+life_life_NN B-movie.name
+is_be_VBZ I-movie.name
+beautiful_beautiful_JJ I-movie.name
+was_be_VBD O
+released_release_VVN O
+
+what_what_WP O
+is_be_VBZ O
+possessed_possess_VVN B-movie.name
+realese_realese_JJ O
+date_date_NN O
+
+look_look_VV O
+up_up_RP O
+the_the_DT O
+release_release_NN O
+date_date_NN O
+of_of_IN O
+resident_resident_JJ B-movie.name
+evil_evil_NN I-movie.name
+
+what_what_WP O
+is_be_VBZ O
+resident_resident_JJ B-movie.name
+evil_evil_NN I-movie.name
+'s_'s_POS O
+release_release_NN O
+date_date_NN O
+
+when_when_WRB O
+did_do_VVD O
+resident_resident_JJ B-movie.name
+evil_evil_NN I-movie.name
+come_come_VVN O
+out_out_RP O
+
+when_when_WRB O
+did_do_VVD O
+resident_resident_JJ B-movie.name
+evil_evil_JJ I-movie.name
+debut_debut_NN O
+in_in_IN O
+theaters_theater_NNS O
+
+when_when_WRB O
+did_do_VVD O
+theaters_theater_NNS O
+show_show_VV O
+resident_resident_JJ B-movie.name
+evil_evil_NN I-movie.name
+
+when_when_WRB O
+was_be_VBD O
+the_the_DT O
+release_release_NN O
+date_date_NN O
+for_for_IN O
+the_the_DT O
+movie_movie_NN O
+resident_resident_NN B-movie.name
+evil_evil_NN I-movie.name
+
+when_when_WRB O
+was_be_VBD O
+resident_resident_JJ B-movie.name
+evil_evil_RB I-movie.name
+first_first_JJ O
+in_in_IN O
+theatres_theatre_NNS O
+
+when_when_WRB O
+was_be_VBD O
+the_the_DT O
+scooby_scooby_NNS B-movie.name
+do_do_VVP I-movie.name
+movie_movie_NN O
+released_release_VVN O
+
+when_when_WRB O
+was_be_VBD O
+finding_find_VVG B-movie.name
+nemo_nemo_NN I-movie.name
+released_release_VVN O
+
+release_release_NN O
+date_date_NN O
+for_for_IN O
+finding_find_VVG B-movie.name
+nemo_nemo_NN I-movie.name
+
+when_when_WRB O
+was_be_VBD O
+finding_find_VVG B-movie.name
+nemo_nemo_NN I-movie.name
+released_release_VVN O
+
+when_when_WRB O
+was_be_VBD O
+finding_find_VVG B-movie.name
+nemo_nemo_NN I-movie.name
+released_release_VVN O
+
+in_in_IN O
+which_which_WDT O
+date_date_NN O
+varsham_varsham_NN B-movie.name
+movie_movie_NN O
+released_release_VVD O
+
+in_in_IN O
+which_which_WDT O
+month_month_NN O
+varsham_varsham_NN B-movie.name
+movie_movie_NN O
+released_release_VVD O
+
+release_release_NN O
+twilight_twilight_NN B-movie.name
+
+frankenstein_frankenstein_NN B-movie.name
+release_release_NN O
+
+frankenstein_frankenstein_NN B-movie.name
+release_release_NN O
+date_date_NN O
+
+when_when_WRB O
+will_will_MD O
+the_the_DT O
+movie_movie_NN O
+frankenstein_frankenstein_NN B-movie.name
+be_be_VB O
+released_release_VVN O
+
+when_when_WRB O
+was_be_VBD O
+hum_hum_NN B-movie.name
+tum_tum_NN I-movie.name
+relesed_relesed_VVD O
+
+i_i_NNS O
+want_want_VVP O
+to_to_TO O
+know_know_VV O
+when_when_WRB O
+step_step_NN B-movie.name
+up_up_RB I-movie.name
+was_be_VBD O
+released_release_VVN O
+
+i_i_NP O
+would_would_MD O
+like_like_VV O
+to_to_TO O
+know_know_VV O
+when_when_WRB O
+the_the_DT O
+movie_movie_NN O
+step_step_NN B-movie.name
+up_up_RB I-movie.name
+was_be_VBD O
+released_release_VVN O
+
+when_when_WRB O
+was_be_VBD O
+step_step_NN B-movie.name
+up_up_RB I-movie.name
+released_release_VVN O
+
+when_when_WRB O
+was_be_VBD O
+the_the_DT O
+movie_movie_NN O
+step_step_NN B-movie.name
+up_up_RB I-movie.name
+released_release_VVN O
+
+when_when_WRB O
+did_do_VVD O
+happiness_happiness_NN B-movie.name
+get_get_VV O
+released_release_VVN O
+
+when_when_WRB O
+will_will_MD O
+paranormal_paranormal_JJ B-movie.name
+activity_activity_NN I-movie.name
+be_be_VB O
+released_release_VVN O
+
+avatar_avatar_NN B-movie.name
+realease_realease_NN O
+date_date_NN O
+
+avatar_avatar_NN B-movie.name
+release_release_NN O
+
+what_what_WP O
+was_be_VBD O
+the_the_DT O
+release_release_NN O
+date_date_NN O
+for_for_IN O
+avatar_avatar_NN B-movie.name
+
+when_when_WRB O
+did_do_VVD O
+the_the_DT O
+movie_movie_NN O
+avatar_avatar_NN B-movie.name
+get_get_VV O
+released_release_VVN O
+
+when_when_WRB O
+avatar_avatar_NN B-movie.name
+released_release_VVD O
+
+when_when_WRB O
+was_be_VBD O
+avatar_avatar_NN B-movie.name
+released_release_VVN O
+
+i_i_NNS O
+need_need_VVP O
+to_to_TO O
+know_know_VV O
+when_when_WRB O
+was_be_VBD O
+the_the_DT O
+movie_movie_NN O
+avatar_avatar_NN B-movie.name
+released_release_VVD O
+
+what_what_WP O
+day_day_NN O
+avatar_avatar_NN B-movie.name
+released_release_VVD O
+
+what_what_WP O
+was_be_VBD O
+the_the_DT O
+release_release_NN O
+date_date_NN O
+of_of_IN O
+the_the_DT O
+movie_movie_NN O
+avatar_avatar_NN B-movie.name
+
+when_when_WRB O
+was_be_VBD O
+avatar_avatar_NN B-movie.name
+released_release_VVN O
+
+what_what_WP O
+date_date_NN O
+was_be_VBD O
+avatar_avatar_NN B-movie.name
+released_release_VVN O
+
+when_when_WRB O
+was_be_VBD O
+black_black_JJ B-movie.name
+swan_swan_NN I-movie.name
+in_in_IN O
+the_the_DT O
+theatre_theatre_NN O
+
+when_when_WRB O
+was_be_VBD O
+black_black_JJ B-movie.name
+swan_swan_NN I-movie.name
+released_release_VVN O
+
+how_how_WRB O
+long_long_RB O
+has_have_VHZ O
+black_black_NN B-movie.name
+swan_swan_NN I-movie.name
+been_be_VBN O
+out_out_RP O
+
+find_find_VV O
+release_release_NN O
+date_date_NN O
+of_of_IN O
+the_the_DT B-movie.name
+help_help_NN I-movie.name
+
+when_when_WRB O
+can_can_MD O
+the_the_DT B-movie.name
+help_help_NN I-movie.name
+be_be_VB O
+released_release_VVN O
+
+tell_tell_VV O
+me_me_PP O
+when_when_WRB O
+compliance_compliance_NN B-movie.name
+came_come_VVD O
+out_out_RP O
+
+when_when_WRB O
+is_be_VBZ O
+sinister_sinister_JJ B-movie.name
+hitting_hit_VVG O
+theaters_theater_NNS O
+
+release_release_NN O
+date_date_NN O
+for_for_IN O
+the_the_DT B-movie.name
+hunger_hunger_NN I-movie.name
+games_game_NNS I-movie.name
+
+when_when_WRB O
+was_be_VBD O
+the_the_DT O
+first_first_JJ O
+hunger_hunger_NN I-movie.name
+games_game_NNS I-movie.name
+shown_show_VVN O
+
+when_when_WRB O
+was_be_VBD O
+avengers_avenger_NNS B-movie.name
+released_release_VVN O
+
+when_when_WRB O
+was_be_VBD O
+lawless_lawless_JJ B-movie.name
+released_release_VVD O
+
+release_release_NN O
+date_date_NN O
+of_of_IN O
+snow_snow_NN B-movie.name
+white_white_NN I-movie.name
+and_and_CC I-movie.name
+the_the_DT I-movie.name
+huntsman_huntsman_NN I-movie.name
+
+release_release_NN O
+date_date_NN O
+for_for_IN O
+amazing_amazing_JJ B-movie.name
+spiderman_spiderman_NN I-movie.name
+
+when_when_WRB O
+will_will_MD O
+the_the_DT O
+next_next_JJ O
+amazing_amazing_JJ B-movie.name
+spiderman_spiderman_NN I-movie.name
+come_come_VVN O
+out_out_RP O
+
+when_when_WRB O
+was_be_VBD O
+the_the_DT B-movie.name
+amazing_amazing_JJ I-movie.name
+spiderman_spiderman_NN I-movie.name
+released_release_VVN O
+in_in_IN O
+the_the_DT O
+movie_movie_NN O
+theatres_theatre_NNS O
+
+search_search_NN O
+for_for_IN O
+the_the_DT O
+release_release_NN O
+date_date_NN O
+of_of_IN O
+vulgaria_vulgaria_NN B-movie.name
+
+when_when_WRB O
+did_do_VVD O
+vulgaria_vulgaria_NNS B-movie.name
+come_come_VV O
+out_out_RP O
+
+when_when_WRB O
+was_be_VBD O
+the_the_DT O
+movie_movie_NN O
+vulgaria_vulgaria_NN B-movie.name
+released_release_VVD O
+
+what_what_WP O
+date_date_NN O
+did_do_VVD O
+vulgaria_vulgaria_NNS B-movie.name
+open_open_JJ O
+
+when_when_WRB O
+did_do_VVD O
+dredd_dredd_RB B-movie.name
+come_come_VV O
+out_out_RP O
+
+what_what_WP O
+year_year_NN O
+was_be_VBD O
+the_the_DT B-movie.name
+godfather_godfather_NN I-movie.name
+released_release_VVD O
+
+release_release_NN O
+date_date_NN O
+for_for_IN O
+the_the_DT B-movie.name
+watch_watch_NN I-movie.name
+
+when_when_WRB O
+was_be_VBD O
+paranorman_paranorman_NP B-movie.name
+be_be_VB O
+released_release_VVN O
+
+what_what_WP O
+year_year_NN O
+was_be_VBD O
+the_the_DT B-movie.name
+campaign_campaign_NN I-movie.name
+released_release_VVD O
+
+when_when_WRB O
+was_be_VBD O
+the_the_DT B-movie.name
+campaign_campaign_NN I-movie.name
+released_release_VVD O
+
+when_when_WRB O
+was_be_VBD O
+expendables_expendable_NNS B-movie.name
+2_2_CD I-movie.name
+released_release_VVN O
+
+when_when_WRB O
+is_be_VBZ O
+the_the_DT O
+release_release_NN O
+date_date_NN O
+of_of_IN O
+resident_resident_JJ B-movie.name
+evil_evil_NN I-movie.name
+:_:_: I-movie.name
+retribution_retribution_NN I-movie.name
+
+what_what_WP O
+is_be_VBZ O
+the_the_DT O
+calendar_calendar_NN O
+date_date_NN O
+release_release_NN O
+for_for_IN O
+looper_looper_NN B-movie.name
+
+i_i_NP O
+would_would_MD O
+like_like_VV O
+to_to_TO O
+know_know_VV O
+the_the_DT O
+release_release_NN O
+date_date_NN O
+of_of_IN O
+the_the_DT O
+movie_movie_NN O
+barfi_barfi_NN B-movie.name
+
+i_i_NNS O
+need_need_VVP O
+to_to_TO O
+know_know_VV O
+the_the_DT O
+release_release_NN O
+date_date_NN O
+of_of_IN O
+the_the_DT O
+movie_movie_NN O
+barfi_barfi_NN B-movie.name
+
+what_what_WP O
+is_be_VBZ O
+the_the_DT O
+release_release_NN O
+date_date_NN O
+of_of_IN O
+the_the_DT O
+movie_movie_NN O
+barfi_barfi_NN B-movie.name
+
+show_show_VV O
+me_me_PP O
+the_the_DT O
+release_release_NN O
+date_date_NN O
+of_of_IN O
+the_the_DT O
+movie_movie_NN O
+barfi_barfi_NN B-movie.name
+
+find_find_VV O
+the_the_DT O
+release_release_NN O
+date_date_NN O
+for_for_IN O
+heroine_heroine_NN B-movie.name
+
+please_please_UH O
+find_find_VV O
+the_the_DT O
+release_release_NN O
+date_date_NN O
+of_of_IN O
+heroine_heroine_NN B-movie.name
+
+what_what_WP O
+is_be_VBZ O
+the_the_DT O
+release_release_NN O
+date_date_NN O
+of_of_IN O
+heroine_heroine_NN B-movie.name
+
+when_when_WRB O
+was_be_VBD O
+herione_herione_RB B-movie.name
+released_release_VVN O
+
+when_when_WRB O
+was_be_VBD O
+the_the_DT O
+movie_movie_NN O
+heroine_heroine_NN B-movie.name
+released_release_VVD O
+
+when_when_WRB O
+was_be_VBD O
+house_house_NN B-movie.name
+at_at_IN I-movie.name
+the_the_DT I-movie.name
+end_end_NN I-movie.name
+of_of_IN I-movie.name
+the_the_DT I-movie.name
+street_street_NN I-movie.name
+released_release_VVD O
+
+when_when_WRB O
+house_house_NN B-movie.name
+at_at_IN I-movie.name
+the_the_DT I-movie.name
+end_end_NN I-movie.name
+of_of_IN I-movie.name
+the_the_DT I-movie.name
+street_street_NN I-movie.name
+showing_showing_NN O
+
+what_what_WP O
+is_be_VBZ O
+the_the_DT O
+release_release_NN O
+date_date_NN O
+for_for_IN O
+house_house_NN B-movie.name
+at_at_IN I-movie.name
+the_the_DT I-movie.name
+end_end_NN I-movie.name
+of_of_IN I-movie.name
+the_the_DT I-movie.name
+street_street_NN I-movie.name
+
+is_be_VBZ O
+iron_iron_NN B-movie.name
+man_man_NN I-movie.name
+3_3_CD I-movie.name
+in_in_IN O
+theatres_theatre_NNS O
+yet_yet_RB O
+
+when_when_WRB O
+is_be_VBZ O
+iron_iron_NN B-movie.name
+man_man_NN I-movie.name
+3_3_CD I-movie.name
+coming_come_VVG O
+out_out_RP O
+
+when_when_WRB O
+will_will_MD O
+iron_iron_VV B-movie.name
+man_man_NN I-movie.name
+3_3_LS I-movie.name
+be_be_VB O
+out_out_RP O
+in_in_IN O
+movie_movie_NN O
+theatres_theatre_NNS O
+
+show_show_VV O
+me_me_PP O
+movies_movie_NNS O
+listed_list_VVN O
+by_by_IN O
+directors_director_NNS O
+
+director_director_NN O
+for_for_IN O
+gone_go_VVN B-movie.name
+with_with_IN I-movie.name
+the_the_DT I-movie.name
+wind_wind_NN I-movie.name
+
+show_show_VV O
+me_me_PP O
+the_the_DT O
+directors_director_NNS O
+of_of_IN O
+gone_go_VVN B-movie.name
+with_with_IN I-movie.name
+the_the_DT I-movie.name
+wind_wind_NN I-movie.name
+
+who_who_WP O
+are_be_VBP O
+the_the_DT O
+directors_director_NNS O
+of_of_IN O
+gone_go_VVN B-movie.name
+with_with_IN I-movie.name
+the_the_DT I-movie.name
+wind_wind_NN I-movie.name
+
+who_who_WP O
+directed_direct_VVD O
+gone_go_VVN B-movie.name
+with_with_IN I-movie.name
+the_the_DT I-movie.name
+wind_wind_NN I-movie.name
+
+who_who_WP O
+directed_direct_VVD O
+gone_go_VVN B-movie.name
+with_with_IN I-movie.name
+the_the_DT I-movie.name
+wind_wind_NN I-movie.name
+
+who_who_WP O
+directed_direct_VVD O
+gone_go_VVN B-movie.name
+with_with_IN I-movie.name
+the_the_DT I-movie.name
+wind_wind_NN I-movie.name
+
+who_who_WP O
+directed_direct_VVD O
+the_the_DT O
+movie_movie_NN O
+
+show_show_VV O
+me_me_PP O
+details_detail_NNS O
+about_about_IN O
+the_the_DT O
+directors_director_NNS O
+of_of_IN O
+gone_go_VVN B-movie.name
+with_with_IN I-movie.name
+the_the_DT I-movie.name
+wind_wind_NN I-movie.name
+
+who_who_WP O
+directed_direct_VVD O
+black_black_JJ B-movie.name
+swan_swan_NN I-movie.name
+
+who_who_WP O
+'s_be_VBZ O
+the_the_DT O
+director_director_NN O
+of_of_IN O
+pi_pi_NN B-movie.name
+
+who_who_WP O
+made_make_VVD O
+batman_batman_NN O
+the_the_DT B-movie.name
+dark_dark_JJ I-movie.name
+knight_knight_NN I-movie.name
+
+tell_tell_VV O
+me_me_PP O
+about_about_IN O
+inception_inception_NN B-movie.name
+'s_'s_POS O
+director_director_NN O
+
+show_show_VV O
+me_me_PP O
+the_the_DT O
+director_director_NN O
+of_of_IN O
+the_the_DT O
+film_film_NN O
+the_the_DT B-movie.name
+dark_dark_JJ I-movie.name
+knight_knight_NN I-movie.name
+
+tell_tell_VV O
+me_me_PP O
+the_the_DT O
+director_director_NN O
+of_of_IN O
+the_the_DT O
+film_film_NN O
+the_the_DT B-movie.name
+dark_dark_JJ I-movie.name
+knight_knight_NN I-movie.name
+
+who_who_WP O
+directed_direct_VVD O
+the_the_DT O
+movie_movie_NN O
+the_the_DT B-movie.name
+dark_dark_JJ I-movie.name
+knight_knight_NN I-movie.name
+
+who_who_WP O
+filmed_film_VVD O
+the_the_DT B-movie.name
+dark_dark_JJ I-movie.name
+knight_knight_NN I-movie.name
+
+who_who_WP O
+is_be_VBZ O
+the_the_DT O
+person_person_NN O
+that_that_WDT O
+directed_direct_VVD O
+the_the_DT O
+film_film_NN O
+the_the_DT B-movie.name
+dark_dark_JJ I-movie.name
+knight_knight_NN I-movie.name
+
+which_which_WDT O
+director_director_NN O
+directed_direct_VVD O
+a_a_DT B-movie.name
+hard_hard_JJ I-movie.name
+day_day_NN I-movie.name
+'s_'s_POS I-movie.name
+night_night_NN I-movie.name
+
+who_who_WP O
+directed_direct_VVD O
+a_a_DT B-movie.name
+hard_hard_JJ I-movie.name
+day_day_NN I-movie.name
+'s_'s_POS I-movie.name
+night_night_NN I-movie.name
+
+who_who_WP O
+directed_direct_VVD O
+a_a_DT B-movie.name
+hard_hard_JJ I-movie.name
+day_day_NN I-movie.name
+'s_'s_POS I-movie.name
+night_night_NN I-movie.name
+
+who_who_WP O
+directed_direct_VVD O
+hard_hard_JJ B-movie.name
+days_day_NNS I-movie.name
+night_night_NN I-movie.name
+
+who_who_WP O
+directed_direct_VVD O
+cast_cast_NN B-movie.name
+away_away_RB I-movie.name
+
+show_show_VV O
+me_me_PP O
+the_the_DT O
+director_director_NN O
+of_of_IN O
+forest_forest_NN B-movie.name
+gump_gump_NN I-movie.name
+
+who_who_WP O
+was_be_VBD O
+the_the_DT O
+director_director_NN O
+of_of_IN O
+forest_forest_NN B-movie.name
+gump_gump_NN I-movie.name
+
+who_who_WP O
+is_be_VBZ O
+director_director_NN O
+of_of_IN O
+sleepless_sleepless_JJ B-movie.name
+in_in_IN I-movie.name
+seattle_Seattle_NN I-movie.name
+
+who_who_WP O
+directed_direct_VVD O
+the_the_DT O
+movie_movie_NN O
+opening_opening_NN B-movie.name
+night_night_NN I-movie.name
+
+who_who_WP O
+directed_direct_VVD O
+the_the_DT O
+movie_movie_NN O
+men_man_NNS B-movie.name
+in_in_IN I-movie.name
+black_black_JJ I-movie.name
+3_3_CD I-movie.name
+
+who_who_WP O
+was_be_VBD O
+the_the_DT O
+director_director_NN O
+in_in_IN O
+men_man_NNS B-movie.name
+in_in_IN I-movie.name
+black_black_JJ I-movie.name
+3_3_CD I-movie.name
+
+can_can_MD O
+you_you_PP O
+tell_tell_VV O
+me_me_PP O
+the_the_DT O
+director_director_NN O
+of_of_IN O
+the_the_DT O
+titanic_titanic_JJ B-movie.name
+
+director_director_NN O
+for_for_IN O
+titanic_titanic_JJ B-movie.name
+
+who_who_WP O
+was_be_VBD O
+the_the_DT O
+director_director_NN O
+of_of_IN O
+the_the_DT O
+movie_movie_NN O
+titanic_titanic_JJ B-movie.name
+
+display_display_NN O
+director_director_NN O
+of_of_IN O
+the_the_DT O
+movie_movie_NN O
+avengers_avenger_NNS B-movie.name
+
+director_director_NN O
+of_of_IN O
+the_the_DT B-movie.name
+avengers_avenger_NNS I-movie.name
+
+search_search_NN O
+director_director_NN O
+of_of_IN O
+the_the_DT B-movie.name
+exorcist_exorcist_NN I-movie.name
+
+find_find_VV O
+the_the_DT O
+director_director_NN O
+for_for_IN O
+the_the_DT B-movie.name
+social_social_JJ I-movie.name
+network_network_NN I-movie.name
+
+find_find_VV O
+the_the_DT O
+director_director_NN O
+of_of_IN O
+big_big_JJ B-movie.name
+
+who_who_WP O
+is_be_VBZ O
+the_the_DT O
+director_director_NN O
+of_of_IN O
+ghost_ghost_NN B-movie.name
+busters_buster_NNS I-movie.name
+
+find_find_VV O
+the_the_DT O
+director_director_NN O
+for_for_IN O
+pretty_pretty_JJ B-movie.name
+woman_woman_NN I-movie.name
+
+who_who_WP O
+made_make_VVD O
+godzilla_godzilla_NN B-movie.name
+
+rocky_rocky_JJ B-movie.name
+director_director_NN O
+
+who_who_WP O
+directed_direct_VVD O
+hope_hope_NN B-movie.name
+floats_float_NNS I-movie.name
+
+avatar_avatar_NN B-movie.name
+was_be_VBD O
+directed_direct_VVN O
+by_by_IN O
+whom_whom_WP O
+
+director_director_NN O
+of_of_IN O
+avatar_avatar_NN B-movie.name
+
+which_which_WDT O
+director_director_NN O
+directed_direct_VVD O
+avatar_avatar_NN B-movie.name
+
+who_who_WP O
+did_do_VVD O
+avatar_avatar_NN B-movie.name
+
+who_who_WP O
+directed_direct_VVD O
+avatar_avatar_NN B-movie.name
+
+who_who_WP O
+directed_direct_VVD O
+avatar_avatar_NN B-movie.name
+
+who_who_WP O
+directed_direct_VVD O
+avatar_avatar_NN B-movie.name
+
+who_who_WP O
+directed_direct_VVD O
+the_the_DT O
+film_film_NN O
+avatar_avatar_NN B-movie.name
+
+who_who_WP O
+directed_direct_VVD O
+the_the_DT O
+movie_movie_NN O
+called_call_VVD O
+avatar_avatar_NN B-movie.name
+
+who_who_WP O
+made_make_VVD O
+the_the_DT O
+movie_movie_NN O
+avatar_avatar_NN B-movie.name
+
+who_who_WP O
+was_be_VBD O
+the_the_DT O
+director_director_NN O
+of_of_IN O
+the_the_DT O
+movie_movie_NN O
+avatar_avatar_NN B-movie.name
+
+who_who_WP O
+directed_direct_VVD O
+star_star_NN B-movie.name
+wars_war_NNS I-movie.name
+four_four_CD I-movie.name
+
+who_who_WP O
+directed_direct_VVD O
+the_the_DT O
+movie_movie_NN O
+in_in_IN B-movie.name
+july_july_RB I-movie.name
+
+who_who_WP O
+made_make_VVD O
+steel_steel_NN B-movie.name
+magnolias_magnolia_NNS I-movie.name
+
+the_the_DT B-movie.name
+silence_silence_NN I-movie.name
+of_of_IN I-movie.name
+the_the_DT I-movie.name
+lambs_lamb_NNS I-movie.name
+director_director_NN O
+
+director_director_NN O
+of_of_IN O
+the_the_DT B-movie.name
+incredibles_incredibles_NNS I-movie.name
+
+gilda_gilda_NN B-movie.name
+director_director_NN O
+
+list_list_NN O
+gilda_gilda_NN B-movie.name
+director_director_NN O
+
+search_search_NN O
+director_director_NN O
+for_for_IN O
+gilda_gilda_NN B-movie.name
+
+search_search_NN O
+gilda_gilda_NN B-movie.name
+director_director_NN O
+
+the_the_DT O
+movie_movie_NN O
+gilda_gilda_NN B-movie.name
+director_director_NN O
+
+who_who_WP O
+directed_direct_VVD O
+gilda_gilda_NN B-movie.name
+
+who_who_WP O
+directed_direct_VVD O
+gilda_gilda_NN B-movie.name
+
+who_who_WP O
+directed_direct_VVD O
+gilda_gilda_NN B-movie.name
+
+who_who_WP O
+directed_direct_VVD O
+the_the_DT O
+movie_movie_NN O
+gilda_gilda_NN B-movie.name
+
+goodfellas_goodfellas_NNS B-movie.name
+director_director_NN O
+
+who_who_WP O
+made_make_VVD O
+field_field_NN B-movie.name
+of_of_IN I-movie.name
+dreams_dream_NNS I-movie.name
+
+who_who_WP O
+made_make_VVD O
+the_the_DT O
+movie_movie_NN O
+field_field_NN B-movie.name
+of_of_IN I-movie.name
+dreams_dream_NNS I-movie.name
+
+who_who_WP O
+made_make_VVD O
+the_the_DT O
+movie_movie_NN O
+field_field_NN B-movie.name
+of_of_IN I-movie.name
+dreams_dream_NNS I-movie.name
+possible_possible_JJ O
+
+can_can_MD O
+i_i_NNS O
+please_please_VV O
+see_see_VV O
+more_more_JJR O
+details_detail_NNS O
+for_for_IN O
+the_the_DT O
+director_director_NN O
+of_of_IN O
+finding_find_VVG B-movie.name
+nemo_nemo_NN I-movie.name
+
+find_find_VV O
+the_the_DT O
+director_director_NN O
+for_for_IN O
+finding_find_VVG B-movie.name
+nemo_nemo_NN I-movie.name
+
+i_i_NNS O
+want_want_VVP O
+to_to_TO O
+know_know_VV O
+the_the_DT O
+director_director_NN O
+of_of_IN O
+finding_find_VVG B-movie.name
+nemo_nemo_NN I-movie.name
+
+i_i_NNS O
+want_want_VVP O
+to_to_TO O
+know_know_VV O
+who_who_WP O
+directed_direct_VVD O
+finding_find_VVG B-movie.name
+nemo_nemo_NN I-movie.name
+
+show_show_VV O
+me_me_PP O
+finding_find_VVG B-movie.name
+nemo_nemo_NN I-movie.name
+director_director_NN O
+
+who_who_WP O
+directed_direct_VVD O
+finding_find_VVG B-movie.name
+nemo_nemo_NN I-movie.name
+
+who_who_WP O
+directed_direct_VVD O
+finding_find_VVG B-movie.name
+nemo_nemo_NN I-movie.name
+
+who_who_WP O
+directed_direct_VVD O
+finding_find_VVG B-movie.name
+nemo_nemo_NN I-movie.name
+
+who_who_WP O
+directed_direct_VVD O
+finding_find_VVG B-movie.name
+nemo_nemo_NN I-movie.name
+
+who_who_WP O
+directed_direct_VVD O
+finding_find_VVG B-movie.name
+nemo_nemo_NN I-movie.name
+
+who_who_WP O
+directed_direct_VVD O
+finding_find_VVG B-movie.name
+nemo_nemo_NN I-movie.name
+
+who_who_WP O
+was_be_VBD O
+the_the_DT O
+director_director_NN O
+of_of_IN O
+the_the_DT O
+film_film_NN O
+finding_find_VVG B-movie.name
+nemo_nemo_NN I-movie.name
+
+who_who_WP O
+directed_direct_VVD O
+hitch_hitch_NN B-movie.name
+
+who_who_WP O
+made_make_VVD O
+hitch_hitch_NN B-movie.name
+
+director_director_NN O
+for_for_IN O
+anne_anne_NN B-movie.name
+of_of_IN I-movie.name
+green_green_JJ I-movie.name
+gables_gable_NNS I-movie.name
+
+search_search_NN O
+director_director_NN O
+of_of_IN O
+the_the_DT O
+movie_movie_NN O
+platoon_platoon_NN B-movie.name
+
+who_who_WP O
+was_be_VBD O
+the_the_DT O
+director_director_NN O
+of_of_IN O
+movie_movie_NN O
+varsham_varsham_NN B-movie.name
+
+who_who_WP O
+directed_direct_VVD O
+grizzly_grizzly_JJ B-movie.name
+man_man_NN I-movie.name
+
+who_who_WP O
+directed_direct_VVD O
+to_to_TO B-movie.name
+kill_kill_VV I-movie.name
+a_a_DT I-movie.name
+mockingbird_mockingbird_NN I-movie.name
+
+who_who_WP O
+was_be_VBD O
+the_the_DT O
+director_director_NN O
+of_of_IN O
+the_the_DT O
+movie_movie_NN O
+e_e_NN B-movie.name
+t_t_NN I-movie.name
+
+find_find_VV O
+the_the_DT B-movie.name
+director_director_NN O
+for_for_IN O
+et_et_FW B-movie.name
+
+who_who_WP O
+made_make_VVD O
+et_et_NP B-movie.name
+
+who_who_WP O
+was_be_VBD O
+the_the_DT O
+director_director_NN O
+of_of_IN O
+the_the_DT O
+movie_movie_NN O
+jaws_jaw_NNS B-movie.name
+
+look_look_VV O
+up_up_RP O
+info_info_NN O
+about_about_IN O
+jurassic_Jurassic_JJ B-movie.name
+park_park_NN I-movie.name
+'s_'s_POS O
+director_director_NN O
+
+who_who_WP O
+directed_direct_VVD O
+jurassic_Jurassic_JJ B-movie.name
+park_park_NN I-movie.name
+
+who_who_WP O
+directed_direct_VVD O
+jurassic_Jurassic_JJ B-movie.name
+park_park_NN I-movie.name
+
+who_who_WP O
+directed_direct_VVD O
+jurassic_Jurassic_JJ B-movie.name
+park_park_NN I-movie.name
+
+old_old_JJ B-movie.name
+man_man_NN I-movie.name
+director_director_NN O
+
+can_can_MD O
+you_you_PP O
+find_find_VV O
+out_out_RP O
+who_who_WP O
+directed_direct_VVD O
+the_the_DT O
+movie_movie_NN O
+batman_batman_NN B-movie.name
+
+can_can_MD O
+you_you_PP O
+tell_tell_VV O
+me_me_PP O
+who_who_WP O
+is_be_VBZ O
+the_the_DT O
+director_director_NN O
+of_of_IN O
+batman_batman_NN B-movie.name
+
+who_who_WP O
+directed_direct_VVD O
+batman_batman_NN B-movie.name
+
+who_who_WP O
+is_be_VBZ O
+the_the_DT O
+director_director_NN O
+of_of_IN O
+batman_batman_NN B-movie.name
+
+looper_looper_NN B-movie.name
+directors_director_NNS O
+
+who_who_WP O
+directed_direct_VVD O
+the_the_DT B-movie.name
+perfect_perfect_JJ I-movie.name
+storm_storm_NN I-movie.name
+
+who_who_WP O
+directed_direct_VVD O
+dirty_dirty_JJ B-movie.name
+dancing_dancing_NN I-movie.name
+
+director_director_NN O
+for_for_IN O
+pride_pride_NN B-movie.name
+and_and_CC I-movie.name
+prejudice_prejudice_NN I-movie.name
+
+who_who_WP O
+directed_direct_VVD O
+the_the_DT O
+movie_movie_NN O
+the_the_DT B-movie.name
+thing_thing_NN I-movie.name
+called_call_VVD I-movie.name
+love_love_NN I-movie.name
+
+director_director_NN O
+of_of_IN O
+twilight_twilight_NN B-movie.name
+
+twilight_twilight_NN B-movie.name
+was_be_VBD O
+directed_direct_VVN O
+by_by_IN O
+whom_whom_WP O
+
+who_who_WP O
+else_else_RB O
+directs_direct_VVZ O
+zombie_zombie_NN O
+movies_movie_NNS O
+
+director_director_NN O
+of_of_IN O
+hum_hum_NN B-movie.name
+tum_tum_NN I-movie.name
+
+director_director_NN O
+of_of_IN O
+the_the_DT O
+movie_movie_NN O
+hum_hum_NN B-movie.name
+tum_tum_NN I-movie.name
+
+find_find_VV O
+the_the_DT O
+director_director_NN O
+of_of_IN O
+hum_hum_NN B-movie.name
+tum_tum_NN I-movie.name
+
+look_look_VV O
+for_for_IN O
+the_the_DT O
+director_director_NN O
+of_of_IN O
+hum_hum_NN B-movie.name
+tum_tum_NN I-movie.name
+
+director_director_NN O
+of_of_IN O
+the_the_DT B-movie.name
+cabin_cabin_NN I-movie.name
+in_in_IN I-movie.name
+the_the_DT I-movie.name
+woods_wood_NNS I-movie.name
+
+i_i_NNS O
+am_be_VBP O
+interested_interested_JJ O
+in_in_IN O
+who_who_WP O
+directed_direct_VVD O
+cabin_cabin_NN B-movie.name
+in_in_IN I-movie.name
+the_the_DT I-movie.name
+woods_wood_NNS I-movie.name
+
+show_show_VV O
+me_me_PP O
+who_who_WP O
+directed_direct_VVD O
+cabin_cabin_NN B-movie.name
+in_in_IN I-movie.name
+the_the_DT I-movie.name
+woods_wood_NNS I-movie.name
+
+who_who_WP O
+directed_direct_VVD O
+the_the_DT O
+movie_movie_NN O
+cabin_cabin_NN I-movie.name
+in_in_IN I-movie.name
+the_the_DT I-movie.name
+woods_wood_NNS I-movie.name
+
+who_who_WP O
+directed_direct_VVD O
+soul_soul_NN B-movie.name
+surfer_surfer_NN I-movie.name
+
+who_who_WP O
+directed_direct_VVD O
+the_the_DT B-movie.name
+sandlot_sandlot_NN I-movie.name
+
+which_which_WDT O
+director_director_NN O
+made_make_VVD O
+a_a_DT B-movie.name
+comedy_comedy_NN I-movie.name
+
+director_director_NN O
+of_of_IN O
+halloween_halloween_NN B-movie.name
+
+find_find_VV O
+the_the_DT O
+director_director_NN O
+of_of_IN O
+step_step_NN B-movie.name
+up_up_RB I-movie.name
+
+search_search_NN O
+for_for_IN O
+the_the_DT O
+director_director_NN O
+of_of_IN O
+step_step_NN B-movie.name
+up_up_RB I-movie.name
+
+search_search_NN O
+for_for_IN O
+the_the_DT O
+director_director_NN O
+of_of_IN O
+step_step_NN B-movie.name
+up_up_RB I-movie.name
+
+i_i_NNS O
+need_need_VVP O
+to_to_TO O
+know_know_VV O
+who_who_WP O
+directed_direct_VVD O
+black_black_JJ B-movie.name
+swan_swan_NN I-movie.name
+
+i_i_NNS O
+want_want_VVP O
+to_to_TO O
+look_look_VV O
+for_for_IN O
+the_the_DT O
+director_director_NN O
+of_of_IN O
+freedom_freedom_NN B-movie.name
+writers_writer_NNS I-movie.name
+
+i_i_NP O
+would_would_MD O
+like_like_VV O
+to_to_TO O
+look_look_VV O
+for_for_IN O
+the_the_DT O
+director_director_NN O
+of_of_IN O
+freedom_freedom_NN B-movie.name
+writers_writer_NNS I-movie.name
+
+who_who_WP O
+directed_direct_VVD O
+the_the_DT O
+movie_movie_NN O
+titanic_titanic_JJ B-movie.name
+
+who_who_WP O
+was_be_VBD O
+the_the_DT O
+director_director_NN O
+of_of_IN O
+the_the_DT O
+movie_movie_NN O
+the_the_DT B-movie.name
+mechanic_mechanic_NN I-movie.name
+
+find_find_VV O
+the_the_DT O
+director_director_NN O
+of_of_IN O
+mask_mask_NN B-movie.name
+
+director_director_NN O
+of_of_IN O
+the_the_DT O
+hulk_hulk_NN B-movie.name
+
+did_do_VVD O
+robert_robert_JJ B-director.name
+wise_wise_NN I-director.name
+direct_direct_VV O
+the_the_DT B-movie.name
+sound_sound_NN I-movie.name
+of_of_IN I-movie.name
+music_music_NN I-movie.name
+
+was_be_VBD O
+robert_robert_RB B-director.name
+wise_wise_JJ I-director.name
+the_the_DT O
+only_only_JJ O
+director_director_NN O
+of_of_IN O
+the_the_DT B-movie.name
+sound_sound_NN I-movie.name
+of_of_IN I-movie.name
+music_music_NN I-movie.name
+
+who_who_WP O
+directed_direct_VVD O
+the_the_DT B-movie.name
+sound_sound_NN I-movie.name
+of_of_IN I-movie.name
+music_music_NN I-movie.name
+
+who_who_WP O
+directed_direct_VVD O
+the_the_DT B-movie.name
+sound_sound_NN I-movie.name
+of_of_IN I-movie.name
+music_music_NN I-movie.name
+
+who_who_WP O
+directed_direct_VVD O
+the_the_DT B-movie.name
+sound_sound_NN I-movie.name
+of_of_IN I-movie.name
+music_music_NN I-movie.name
+
+what_what_WP O
+director_director_NN O
+shot_shoot_VVD O
+the_the_DT O
+1st_1st_JJ O
+lord_lord_NN B-movie.name
+of_of_IN I-movie.name
+the_the_DT I-movie.name
+rings_ring_NNS I-movie.name
+film_film_NN O
+
+who_who_WP O
+directed_direct_VVD O
+return_return_NN B-movie.name
+
+who_who_WP O
+is_be_VBZ O
+the_the_DT O
+director_director_NN O
+of_of_IN O
+return_return_NN B-movie.name
+
+search_search_NN O
+for_for_IN O
+the_the_DT O
+name_name_NN O
+of_of_IN O
+the_the_DT O
+director_director_NN O
+of_of_IN O
+return_return_NN B-movie.name
+
+what_what_WP O
+was_be_VBD O
+the_the_DT O
+name_name_NN O
+of_of_IN O
+the_the_DT O
+director_director_NN O
+in_in_IN O
+men_man_NNS B-movie.name
+in_in_IN I-movie.name
+black_black_JJ I-movie.name
+3_3_CD I-movie.name
+
+what_what_WP O
+is_be_VBZ O
+the_the_DT O
+name_name_NN O
+of_of_IN O
+the_the_DT O
+director_director_NN O
+of_of_IN O
+the_the_DT O
+movie_movie_NN O
+avengers_avenger_NNS B-movie.name
+
+find_find_VV O
+the_the_DT O
+name_name_NN O
+of_of_IN O
+the_the_DT O
+director_director_NN O
+of_of_IN O
+chips_chip_NNS B-movie.name
+
+name_name_NN O
+of_of_IN O
+director_director_NN O
+for_for_IN O
+house_house_NN B-movie.name
+at_at_IN I-movie.name
+the_the_DT I-movie.name
+end_end_NN I-movie.name
+of_of_IN I-movie.name
+the_the_DT I-movie.name
+street_street_NN I-movie.name
+
+name_name_VV O
+the_the_DT O
+director_director_NN O
+of_of_IN O
+sleepless_sleepless_JJ B-movie.name
+in_in_IN I-movie.name
+seattle_Seattle_NN I-movie.name
+
+find_find_VV O
+name_name_NN O
+of_of_IN O
+director_director_NN O
+of_of_IN O
+the_the_DT O
+movie_movie_NN O
+platoon_platoon_NN B-movie.name
+
+get_get_VV O
+me_me_PP O
+the_the_DT O
+name_name_NN O
+of_of_IN O
+who_who_WP O
+directed_direct_VVD O
+the_the_DT B-movie.name
+master_master_NN I-movie.name
+
+what_what_WP O
+is_be_VBZ O
+the_the_DT O
+director_director_NN O
+'s_'s_POS O
+name_name_NN O
+of_of_IN O
+lord_lord_NN B-movie.name
+of_of_IN I-movie.name
+the_the_DT I-movie.name
+rings_ring_NNS I-movie.name
+
+what_what_WP O
+is_be_VBZ O
+the_the_DT O
+name_name_NN O
+of_of_IN O
+the_the_DT O
+person_person_NN O
+who_who_WP O
+made_make_VVD O
+et_et_NP B-movie.name
+
+rocky_rocky_JJ B-movie.name
+director_director_NN O
+'s_'s_POS O
+name_name_NN O
+
+what_what_WP O
+type_type_NN O
+of_of_IN O
+movie_movie_NN O
+is_be_VBZ O
+gilda_gilda_NN B-movie.name
+
+what_what_WP O
+types_type_NNS O
+of_of_IN O
+movies_movie_NNS O
+does_do_VVZ O
+lionsgate_lionsgate_RB B-producer.name
+produce_produce_VV O
+
+what_what_WP O
+kind_kind_NN O
+of_of_IN O
+movie_movie_NN O
+is_be_VBZ O
+black_black_JJ B-movie.name
+swan_swan_NN I-movie.name
+
+what_what_WP O
+genre_genre_NN O
+is_be_VBZ O
+the_the_DT B-movie.name
+hunger_hunger_NN I-movie.name
+games_game_NNS I-movie.name
+
+genre_genre_NN O
+for_for_IN O
+transformers_transformer_NNS B-movie.name
+
+what_what_WP O
+genre_genre_NN O
+is_be_VBZ O
+looper_looper_NN B-movie.name
+
+what_what_WP O
+genre_genre_NN O
+is_be_VBZ O
+the_the_DT O
+movie_movie_NN O
+looper_looper_NN B-movie.name
+
+what_what_WP O
+genre_genre_NN O
+is_be_VBZ O
+rambo_rambo_NN B-movie.name
+
+what_what_WP O
+genre_genre_NN O
+is_be_VBZ O
+the_the_DT O
+jaws_jaws_NN B-movie.name
+movies_movie_NNS O
+
+can_can_MD O
+you_you_PP O
+tell_tell_VV O
+me_me_PP O
+the_the_DT O
+genre_genre_NN O
+for_for_IN O
+1000_@card@_CD B-movie.name
+words_word_NNS I-movie.name
+
+i_i_NNS O
+am_be_VBP O
+interested_interested_JJ O
+in_in_IN O
+the_the_DT O
+genre_genre_NN O
+for_for_IN O
+1000_@card@_CD B-movie.name
+words_word_NNS I-movie.name
+
+what_what_WP O
+type_type_NN O
+of_of_IN O
+movie_movie_NN O
+is_be_VBZ O
+parenthood_parenthood_NN B-movie.name
+
+give_give_VV O
+me_me_PP O
+the_the_DT O
+genre_genre_NN O
+of_of_IN O
+the_the_DT O
+movie_movie_NN O
+lawless_lawless_JJ B-movie.name
+
+what_what_WP O
+genre_genre_NN O
+is_be_VBZ O
+the_the_DT O
+movie_movie_NN O
+lawless_lawless_JJ B-movie.name
+
+what_what_WP O
+is_be_VBZ O
+the_the_DT O
+genre_genre_NN O
+of_of_IN O
+the_the_DT O
+movie_movie_NN O
+lawless_lawless_JJ B-movie.name
+
+what_what_WP O
+genre_genre_NN O
+is_be_VBZ O
+the_the_DT O
+movie_movie_NN O
+in_in_IN B-movie.name
+july_july_RB I-movie.name
+
+genre_genre_NN O
+for_for_IN O
+gone_go_VVN B-movie.name
+with_with_IN I-movie.name
+the_the_DT I-movie.name
+wind_wind_NN I-movie.name
+
+how_how_WRB O
+is_be_VBZ O
+the_the_DT O
+movie_movie_NN O
+classified_classify_VVD O
+
+what_what_WP O
+genre_genre_NN O
+is_be_VBZ O
+the_the_DT O
+movie_movie_NN O
+
+what_what_WP O
+is_be_VBZ O
+the_the_DT O
+movie_movie_NN O
+category_category_NN O
+
+how_how_WRB O
+would_would_MD O
+you_you_PP O
+describe_describe_VV O
+the_the_DT O
+movie_movie_NN O
+
+type_type_NN O
+of_of_IN O
+movie_movie_NN O
+
+what_what_WP O
+is_be_VBZ O
+the_the_DT O
+classification_classification_NN O
+of_of_IN O
+movie_movie_NN O
+
+what_what_WP O
+is_be_VBZ O
+the_the_DT O
+genre_genre_NN O
+for_for_IN O
+movie_movie_NN O
+
+what_what_WP O
+is_be_VBZ O
+the_the_DT O
+movie_movie_NN O
+genre_genre_NN O
+
+what_what_WP O
+kind_kind_NN O
+of_of_IN O
+movie_movie_NN O
+
+what_what_WP O
+type_type_NN O
+of_of_IN O
+movie_movie_NN O
+is_be_VBZ O
+this_this_DT O
+
+i_i_NP O
+would_would_MD O
+like_like_VV O
+look_look_VV O
+up_up_RP O
+the_the_DT O
+genre_genre_NN O
+step_step_NN B-movie.name
+up_up_RB I-movie.name
+is_be_VBZ O
+in_in_IN O
+
+search_search_NN O
+for_for_IN O
+the_the_DT O
+genre_genre_NN O
+step_step_VV B-movie.name
+up_up_RP I-movie.name
+in_in_IN O
+
+what_what_WP O
+genre_genre_NN O
+is_be_VBZ O
+step_step_VV B-movie.name
+up_up_RP I-movie.name
+in_in_IN O
+
+what_what_WP O
+genre_genre_NN O
+is_be_VBZ O
+calendar_calendar_NN B-movie.name
+girls_girl_NNS I-movie.name
+in_in_IN O
+
+what_what_WP O
+is_be_VBZ O
+the_the_DT O
+genre_genre_NN O
+for_for_IN O
+the_the_DT B-movie.name
+patriot_patriot_NN I-movie.name
+
+what_what_WP O
+genre_genre_NN O
+is_be_VBZ O
+network_network_NN B-movie.name
+in_in_IN O
+
+find_find_VV O
+out_out_IN O
+the_the_DT O
+genre_genre_NN O
+for_for_IN O
+the_the_DT O
+movie_movie_NN O
+rebel_rebel_NN B-movie.name
+
+genre_genre_NN O
+for_for_IN O
+the_the_DT B-movie.name
+avengers_avenger_NNS I-movie.name
+
+can_can_MD O
+you_you_PP O
+tell_tell_VV O
+me_me_PP O
+what_what_WDT O
+genre_genre_NN O
+the_the_DT O
+movie_movie_NN O
+avatar_avatar_NN B-movie.name
+falls_fall_VVZ O
+in_in_IN O
+
+i_i_NNS O
+need_need_VVP O
+to_to_TO O
+know_know_VV O
+the_the_DT O
+genre_genre_NN O
+of_of_IN O
+the_the_DT O
+movie_movie_NN O
+avatar_avatar_NN B-movie.name
+
+show_show_VV O
+me_me_PP O
+the_the_DT O
+genre_genre_NN O
+of_of_IN O
+the_the_DT O
+movie_movie_NN O
+avatar_avatar_NN B-movie.name
+
+what_what_WP O
+genre_genre_NN O
+is_be_VBZ O
+superman_superman_NN B-movie.name
+
+pretty_pretty_JJ B-movie.name
+girl_girl_NN I-movie.name
+movie_movie_NN O
+genre_genre_NN O
+
+pretty_pretty_JJ B-movie.name
+girl_girl_NN I-movie.name
+what_what_WP O
+is_be_VBZ O
+the_the_DT O
+movie_movie_NN O
+'s_'s_POS O
+genre_genre_NN O
+
+what_what_WP O
+genre_genre_NN O
+is_be_VBZ O
+pretty_pretty_RB B-movie.name
+girl_girl_NN I-movie.name
+
+what_what_WP O
+genre_genre_NN O
+is_be_VBZ O
+the_the_DT O
+movie_movie_NN O
+pretty_pretty_JJ B-movie.name
+girl_girl_NN I-movie.name
+
+find_find_VV O
+out_out_RP O
+what_what_WP O
+kind_kind_NN O
+of_of_IN O
+movie_movie_NN O
+grease_grease_NN B-movie.name
+is_be_VBZ O
+
+i_i_NN O
+d_d_SYM O
+like_like_IN O
+to_to_TO O
+know_know_VV O
+the_the_DT O
+genre_genre_NN O
+of_of_IN O
+the_the_DT O
+film_film_NN O
+grease_grease_NN B-movie.name
+
+i_i_NP O
+would_would_MD O
+like_like_VV O
+to_to_TO O
+know_know_VV O
+the_the_DT O
+genre_genre_NN O
+of_of_IN O
+grease_grease_NN B-movie.name
+
+what_what_WP O
+kind_kind_NN O
+of_of_IN O
+movie_movie_NN O
+is_be_VBZ O
+grease_grease_NN B-movie.name
+
+find_find_VV O
+out_out_IN O
+the_the_DT O
+genre_genre_NN O
+for_for_IN O
+the_the_DT O
+movie_movie_NN O
+annamayya_annamayya_NN B-movie.name
+
+what_what_WP O
+movie_movie_NN O
+category_category_NN O
+is_be_VBZ O
+friday_friday_RB B-movie.name
+the_the_DT I-movie.name
+13th_13th_JJ I-movie.name
+
+tell_tell_VV O
+me_me_PP O
+what_what_WDT O
+genre_genre_NN O
+the_the_DT B-movie.name
+tommyknockers_Tommyknocker_NNS I-movie.name
+is_be_VBZ O
+
+what_what_WP O
+genre_genre_NN O
+is_be_VBZ O
+the_the_DT B-movie.name
+hangover_hangover_NN I-movie.name
+
+what_what_WP O
+catergory_catergory_NN O
+is_be_VBZ O
+ted_ted_VV B-movie.name
+in_in_IN O
+
+what_what_WP O
+genre_genre_NN O
+is_be_VBZ O
+ted_ted_VV B-movie.name
+considered_consider_VVN O
+
+what_what_WP O
+type_type_NN O
+of_of_IN O
+movie_movie_NN O
+is_be_VBZ O
+ted_ted_VV B-movie.name
+considered_consider_VVN O
+to_to_TO O
+be_be_VB O
+
+genre_genre_NN O
+for_for_IN O
+while_while_IN B-movie.name
+you_you_PP I-movie.name
+were_be_VBD I-movie.name
+sleeping_sleep_VVG I-movie.name
+
+what_what_WP O
+genre_genre_NN O
+is_be_VBZ O
+finding_find_VVG B-movie.name
+nemo_nemo_NN I-movie.name
+
+which_which_WDT O
+language_language_NN O
+is_be_VBZ O
+used_use_VVN O
+in_in_IN O
+the_the_DT O
+movie_movie_NN O
+
+language_language_NN O
+of_of_IN O
+sound_sound_NN B-movie.name
+of_of_IN I-movie.name
+music_music_NN I-movie.name
+
+what_what_WP O
+language_language_NN O
+is_be_VBZ O
+this_this_DT O
+film_film_NN O
+
+what_what_WP O
+are_be_VBP O
+the_the_DT O
+different_different_JJ O
+languages_language_NNS O
+this_this_DT O
+movie_movie_NN O
+come_come_VVN O
+in_in_IN O
+
+what_what_WP O
+foreign_foreign_JJ O
+language_language_NN O
+is_be_VBZ O
+spoken_speak_VVN O
+in_in_IN O
+movie_movie_NN O
+
+what_what_WP O
+language_language_NN O
+is_be_VBZ O
+movie_movie_NN O
+in_in_IN O
+
+what_what_WP O
+language_language_NN O
+is_be_VBZ O
+the_the_DT O
+movie_movie_NN O
+in_in_IN O
+
+what_what_WP O
+language_language_NN O
+is_be_VBZ O
+the_the_DT O
+movie_movie_NN O
+in_in_IN O
+
+language_language_NN O
+of_of_IN O
+anna_anna_NN B-movie.name
+karinia_karinia_NN I-movie.name
+
+language_language_NN O
+of_of_IN O
+godzilla_godzilla_NN B-movie.name
+movie_movie_NN O
+
+language_language_NN O
+of_of_IN O
+hamlet_hamlet_NN B-movie.name
+
+can_can_MD O
+you_you_PP O
+tell_tell_VV O
+me_me_PP O
+the_the_DT O
+language_language_NN O
+of_of_IN O
+the_the_DT O
+movie_movie_NN O
+hero_hero_NN B-movie.name
+
+i_i_NNS O
+need_need_VVP O
+to_to_TO O
+know_know_VV O
+what_what_WP O
+is_be_VBZ O
+the_the_DT O
+language_language_NN O
+of_of_IN O
+the_the_DT O
+movie_movie_NN O
+hero_hero_NN B-movie.name
+
+tell_tell_VV O
+me_me_PP O
+what_what_WP O
+is_be_VBZ O
+the_the_DT O
+language_language_NN O
+of_of_IN O
+the_the_DT O
+movie_movie_NN O
+hero_hero_NN B-movie.name
+
+language_language_NN O
+of_of_IN O
+bullhead_bullhead_NN B-movie.name
+
+what_what_WP O
+language_language_NN O
+is_be_VBZ O
+shindler_Shindler_NP B-movie.name
+'s_'s_POS I-movie.name
+list_list_NN I-movie.name
+in_in_IN O
+
+what_what_WP O
+language_language_NN O
+did_do_VVD O
+the_the_DT O
+characters_character_NNS O
+speak_speak_VVP O
+in_in_IN O
+black_black_JJ B-movie.name
+swan_swan_NN I-movie.name
+
+what_what_WP O
+language_language_NN O
+is_be_VBZ O
+black_black_JJ B-movie.name
+swan_swan_NN I-movie.name
+
+please_please_UH O
+find_find_VV O
+what_what_WP O
+language_language_NN O
+the_the_DT B-movie.name
+chaser_chaser_NN I-movie.name
+is_be_VBZ O
+in_in_IN O
+
+what_what_WP O
+language_language_NN O
+is_be_VBZ O
+the_the_DT B-movie.name
+chaser_chaser_NN I-movie.name
+in_in_IN O
+
+look_look_VV O
+up_up_RP O
+what_what_WP O
+language_language_NN O
+the_the_DT B-movie.name
+chaser_chaser_NN I-movie.name
+is_be_VBZ O
+in_in_IN O
+
+ondskan_ondskan_NP B-movie.name
+'s_'s_POS O
+language_language_NN O
+
+what_what_WP O
+language_language_NN O
+is_be_VBZ O
+la_la_DT O
+havre_havre_NN B-movie.name
+in_in_IN O
+
+what_what_WP O
+foreign_foreign_JJ O
+language_language_NN O
+is_be_VBZ O
+the_the_DT O
+movie_movie_NN O
+belle_belle_NN B-movie.name
+available_available_JJ O
+to_to_TO O
+view_view_VV O
+in_in_IN O
+
+what_what_WP O
+language_language_NN O
+can_can_MD O
+i_i_NNS O
+watch_watch_VV O
+the_the_DT O
+movie_movie_NN O
+the_the_DT B-movie.name
+professional_professional_NN I-movie.name
+
+what_what_WP O
+language_language_NN O
+is_be_VBZ O
+the_the_DT B-movie.name
+professional_professional_JJ I-movie.name
+in_in_IN O
+
+how_how_WRB O
+do_do_VVP O
+they_they_PP O
+speak_speak_VVP O
+in_in_IN O
+the_the_DT O
+movie_movie_NN O
+the_the_DT B-movie.name
+professional_professional_NN I-movie.name
+
+what_what_WP O
+language_language_NN O
+is_be_VBZ O
+spoken_speak_VVN O
+in_in_IN O
+indochine_indochine_NN B-movie.name
+
+language_language_NN O
+of_of_IN O
+the_the_DT O
+film_film_NN O
+revanche_revanche_NN B-movie.name
+
+what_what_WP O
+language_language_NN O
+was_be_VBD O
+aguirre_aguirre_JJ B-movie.name
+wrath_wrath_NN I-movie.name
+of_of_IN I-movie.name
+god_god_NN I-movie.name
+in_in_IN O
+
+what_what_WP O
+language_language_NN O
+is_be_VBZ O
+passion_passion_NN B-movie.name
+of_of_IN I-movie.name
+the_the_DT I-movie.name
+christ_christ_NN I-movie.name
+in_in_IN O
+
+i_i_NNS O
+want_want_VVP O
+to_to_TO O
+know_know_VV O
+in_in_IN O
+what_what_WP O
+language_language_NN O
+was_be_VBD O
+ju_ju_NN B-movie.name
+on_on_IN I-movie.name
+filmed_film_VVN O
+
+i_i_NNS O
+want_want_VVP O
+to_to_TO O
+know_know_VV O
+the_the_DT O
+original_original_JJ O
+language_language_NN O
+of_of_IN O
+ju_ju_NN B-movie.name
+on_on_IN I-movie.name
+
+tell_tell_VV O
+me_me_PP O
+the_the_DT O
+language_language_NN O
+of_of_IN O
+ju_ju_NN B-movie.name
+on_on_IN I-movie.name
+
+what_what_WP O
+language_language_NN O
+is_be_VBZ O
+ju_ju_NN B-movie.name
+on_on_IN I-movie.name
+on_on_IN O
+
+what_what_WP O
+language_language_NN O
+is_be_VBZ O
+the_the_DT O
+movie_movie_NN O
+elling_elling_VVG B-movie.name
+in_in_IN O
+
+language_language_NN O
+of_of_IN O
+a_a_DT B-movie.name
+separation_separation_NN I-movie.name
+
+what_what_WP O
+s_s_VVZ O
+the_the_DT O
+language_language_NN O
+of_of_IN O
+moscow_moscow_NN B-movie.name
+does_do_VVZ I-movie.name
+not_not_RB I-movie.name
+believe_believe_VV I-movie.name
+in_in_IN I-movie.name
+tears_tear_NNS I-movie.name
+
+what_what_WP O
+is_be_VBZ O
+the_the_DT O
+language_language_NN O
+of_of_IN O
+the_the_DT O
+movie_movie_NN O
+aankhen_aankhen_NN B-movie.name
+
+can_can_MD O
+you_you_PP O
+tell_tell_VV O
+me_me_PP O
+the_the_DT O
+language_language_NN O
+of_of_IN O
+the_the_DT O
+movie_movie_NN O
+aankhen_aankhen_NN B-movie.name
+
+what_what_WP O
+are_be_VBP O
+the_the_DT O
+names_name_NNS O
+of_of_IN O
+films_film_NNS O
+produced_produce_VVN O
+by_by_IN O
+steven_steven_JJ B-producer.name
+spielberg_spielberg_NN I-producer.name
+
+can_can_MD O
+you_you_PP O
+tell_tell_VV O
+me_me_PP O
+names_name_NNS O
+of_of_IN O
+some_some_DT O
+movies_movie_NNS O
+by_by_IN O
+director_director_NN O
+martin_martin_NN B-director.name
+scorsese_scorsese_NN I-director.name
+
+find_find_VV O
+movie_movie_NN O
+titles_title_NNS O
+
+what_what_WP O
+are_be_VBP O
+the_the_DT O
+names_name_NNS O
+of_of_IN O
+movies_movie_NNS O
+made_make_VVN O
+in_in_IN O
+the_the_DT O
+united_unite_VVN B-country.name
+states_state_NNS I-country.name
+
+i_i_NP O
+would_would_MD O
+like_like_VV O
+to_to_TO O
+know_know_VV O
+the_the_DT O
+names_name_NNS O
+of_of_IN O
+all_all_PDT O
+the_the_DT O
+movies_movie_NNS O
+which_which_WDT O
+have_have_VHP O
+been_be_VBN O
+directed_direct_VVN O
+by_by_IN O
+james_james_NNS B-director.name
+cameron_cameron_NN I-director.name
+
+what_what_WP O
+are_be_VBP O
+the_the_DT O
+titles_title_NNS O
+of_of_IN O
+all_all_PDT O
+the_the_DT O
+movies_movie_NNS O
+that_that_IN/that O
+george_george_NN B-producer.name
+lucas_lucas_NNS I-producer.name
+produced_produce_VVD O
+
+names_name_NNS O
+of_of_IN O
+romantic_romantic_JJ B-movie.genre
+indian_Indian_JJ B-movie.language
+films_film_NNS O
+
+can_can_MD O
+you_you_PP O
+show_show_VV O
+me_me_PP O
+names_name_NNS O
+of_of_IN O
+some_some_DT O
+indian_Indian_JJ B-movie.language
+romantic_romantic_JJ B-movie.genre
+movies_movie_NNS O
+
+i_i_NP O
+would_would_MD O
+like_like_VV O
+to_to_TO O
+know_know_VV O
+names_name_NNS O
+of_of_IN O
+some_some_DT O
+indian_Indian_JJ B-movie.language
+movies_movie_NNS O
+
+japanese_Japanese_JJ B-movie.language
+movie_movie_NN O
+titles_title_NNS O
+
+can_can_MD O
+you_you_PP O
+give_give_VV O
+me_me_PP O
+names_name_NNS O
+of_of_IN O
+some_some_DT O
+movies_movie_NNS O
+having_have_VHG O
+pg_pg_NN B-rating.name
+thirteen_thirteen_CD I-rating.name
+rating_rating_NN O
+
+i_i_NP O
+would_would_MD O
+like_like_VV O
+to_to_TO O
+get_get_VV O
+names_name_NNS O
+of_of_IN O
+some_some_DT O
+movies_movie_NNS O
+with_with_IN O
+pg_pg_NN B-rating.name
+thirteen_thirteen_CD I-rating.name
+rating_rating_NN O
+
+show_show_VV O
+me_me_PP O
+names_name_NNS O
+of_of_IN O
+some_some_DT O
+romantic_romantic_JJ B-movie.genre
+movies_movie_NNS O
+having_have_VHG O
+a_a_DT O
+pg_pg_NN B-rating.name
+thirteen_thirteen_CD I-rating.name
+rating_rating_NN O
+
+what_what_WP O
+are_be_VBP O
+the_the_DT O
+names_name_NNS O
+of_of_IN O
+movies_movie_NNS O
+with_with_IN O
+zombies_zombie_NNS B-movie.subject
+in_in_IN O
+them_them_PP O
+
+i_i_NNS O
+need_need_VVP O
+to_to_TO O
+know_know_VV O
+the_the_DT O
+names_name_NNS O
+of_of_IN O
+all_all_PDT O
+the_the_DT O
+movies_movie_NNS O
+produced_produce_VVN O
+by_by_IN O
+william_William_NP B-producer.name
+packer_packer_NN I-producer.name
+
+stephen_stephen_NN B-director.name
+king_king_NN I-director.name
+directed_direct_VVD O
+what_what_WP O
+movie_movie_NN O
+
+what_what_WP O
+movies_movie_NNS O
+did_do_VVD O
+stephen_stephen_NN B-director.name
+king_king_NN I-director.name
+direct_direct_JJ O
+
+watch_watch_VV O
+the_the_DT O
+last_last_JJ O
+james_james_NNS B-director.name
+cameron_cameron_NN I-director.name
+movie_movie_NN O
+
+find_find_VV O
+movies_movie_NNS O
+by_by_IN O
+release_release_NN O
+date_date_NN O
+
+show_show_NN O
+movie_movie_NN O
+ratings_rating_NNS O
+
+movie_movie_NN O
+ratings_rating_NNS O
+
+richard_richard_NN B-producer.name
+lester_lester_NN I-producer.name
+produced_produce_VVD O
+what_what_WP O
+other_other_JJ O
+movies_movie_NNS O
+
+show_show_VV O
+me_me_PP O
+westerns_western_NNS B-movie.genre
+
+was_be_VBD O
+kevin_kevin_NN B-actor.name
+bacon_bacon_NN I-actor.name
+in_in_IN O
+apollo_apollo_NN B-movie.name
+thirteen_thirteen_CD I-movie.name
+
+i_i_NP O
+need_need_NN O
+movie_movie_NN O
+information_information_NN O
+for_for_IN O
+life_life_NN B-movie.name
+is_be_VBZ I-movie.name
+beautiful_beautiful_JJ I-movie.name
+
+life_life_NN B-movie.name
+is_be_VBZ I-movie.name
+beautiful_beautiful_JJ I-movie.name
+movie_movie_NN O
+page_page_NN O
+
+i_i_NNS O
+want_want_VVP O
+to_to_TO O
+know_know_VV O
+more_more_JJR O
+about_about_IN O
+the_the_DT O
+movie_movie_NN O
+life_life_NN B-movie.name
+is_be_VBZ I-movie.name
+beautiful_beautiful_JJ I-movie.name
+
+i_i_NP O
+would_would_MD O
+like_like_VV O
+info_info_NN O
+on_on_IN O
+the_the_DT O
+movie_movie_NN O
+life_life_NN B-movie.name
+is_be_VBZ I-movie.name
+beautiful_beautiful_JJ I-movie.name
+
+please_please_UH O
+show_show_VV O
+me_me_PP O
+info_info_NN O
+on_on_IN O
+the_the_DT O
+movie_movie_NN O
+life_life_NN B-movie.name
+is_be_VBZ I-movie.name
+beautiful_beautiful_JJ I-movie.name
+
+search_search_NN O
+for_for_IN O
+the_the_DT O
+movie_movie_NN O
+life_life_NN B-movie.name
+is_be_VBZ I-movie.name
+beautiful_beautiful_JJ I-movie.name
+
+what_what_WP O
+are_be_VBP O
+the_the_DT O
+particulars_particular_NNS O
+for_for_IN O
+the_the_DT O
+movie_movie_NN O
+life_life_NN B-movie.name
+is_be_VBZ I-movie.name
+beautiful_beautiful_JJ I-movie.name
+
+can_can_MD O
+i_i_NNS O
+see_see_VV O
+more_more_JJR O
+info_info_NN O
+the_the_DT O
+movie_movie_NN O
+life_life_NN B-movie.name
+is_be_VBZ I-movie.name
+beautiful_beautiful_JJ I-movie.name
+
+can_can_MD O
+you_you_PP O
+show_show_VV O
+me_me_PP O
+info_info_NN O
+on_on_IN O
+the_the_DT O
+movie_movie_NN O
+life_life_NN B-movie.name
+is_be_VBZ I-movie.name
+beautiful_beautiful_JJ I-movie.name
+please_please_RB O
+
+display_display_NN O
+information_information_NN O
+for_for_IN O
+the_the_DT O
+movie_movie_NN O
+life_life_NN B-movie.name
+is_be_VBZ I-movie.name
+beautiful_beautiful_JJ I-movie.name
+
+find_find_VV O
+movies_movie_NNS O
+about_about_IN O
+dancing_dancing_NN B-movie.subject
+
+i_i_NNS O
+want_want_VVP O
+to_to_TO O
+look_look_VV O
+up_up_RP O
+movies_movie_NNS O
+about_about_IN O
+dancing_dancing_NN B-movie.subject
+
+look_look_VV O
+up_up_RP O
+movies_movie_NNS O
+about_about_IN O
+dancing_dancing_NN B-movie.subject
+
+search_search_NN O
+for_for_IN O
+movies_movie_NNS O
+about_about_IN O
+dancing_dancing_NN B-movie.subject
+
+give_give_VV O
+me_me_PP O
+a_a_DT O
+list_list_NN O
+of_of_IN O
+will_will_NN B-actor.name
+ferrell_ferrell_NN I-actor.name
+films_film_NNS O
+
+i_i_NNS O
+want_want_VVP O
+to_to_TO O
+see_see_VV O
+any_any_DT O
+movies_movie_NNS O
+will_will_MD B-actor.name
+ferrell_ferrell_NN I-actor.name
+has_have_VHZ O
+been_be_VBN O
+in_in_IN O
+
+i_i_NP O
+would_would_MD O
+like_like_VV O
+to_to_TO O
+see_see_VV O
+will_will_NN B-actor.name
+ferrell_ferrell_NN I-actor.name
+movies_movie_NNS O
+
+list_list_NN O
+will_will_MD B-actor.name
+ferrell_ferrell_VV I-actor.name
+films_film_NNS O
+
+movies_movie_NNS O
+will_will_MD B-actor.name
+ferrell_ferrell_VV I-actor.name
+played_play_VVN O
+in_in_IN O
+
+what_what_WP O
+are_be_VBP O
+some_some_DT O
+films_film_NNS O
+will_will_MD B-actor.name
+ferrell_ferrell_VV I-actor.name
+starred_star_VVN O
+in_in_IN O
+
+what_what_WP O
+movies_movie_NNS O
+has_have_VHZ O
+will_will_NN B-actor.name
+ferrell_ferrell_NN I-actor.name
+been_be_VBN O
+in_in_IN O
+
+what_what_WP O
+movies_movie_NNS O
+is_be_VBZ O
+will_will_NN B-actor.name
+ferrell_ferrell_NN I-actor.name
+in_in_IN O
+
+will_will_MD B-actor.name
+ferrell_Ferrell_NP I-actor.name
+films_film_NNS O
+
+will_will_MD B-actor.name
+ferrell_Ferrell_NP I-actor.name
+movies_movie_NNS O
+
+will_will_MD B-actor.name
+ferrell_Ferrell_NP I-actor.name
+movies_movie_NNS O
+
+will_will_MD B-actor.name
+ferell_Ferell_NP I-actor.name
+videos_video_NNS O
+
+i_i_NNS O
+want_want_VVP O
+to_to_TO O
+see_see_VV O
+videos_video_NNS O
+of_of_IN O
+will_will_NN B-actor.name
+ferrell_ferrell_NN I-actor.name
+
+all_all_DT O
+videos_video_NNS O
+of_of_IN O
+will_will_NN B-actor.name
+ferrell_ferrell_NN I-actor.name
+
+can_can_MD O
+you_you_PP O
+find_find_VV O
+me_me_PP O
+movies_movie_NNS O
+in_in_IN O
+russian_Russian_JJ B-movie.language
+
+where_where_WRB O
+can_can_MD O
+i_i_NNS O
+find_find_VV O
+movies_movie_NNS O
+in_in_IN O
+russian_Russian_JJ B-movie.language
+
+find_find_VV O
+russian_Russian_JJ B-movie.language
+movies_movie_NNS O
+
+find_find_VV O
+russian_Russian_JJ B-movie.language
+movies_movie_NNS O
+
+search_search_NN O
+for_for_IN O
+russian_Russian_JJ B-movie.language
+movies_movie_NNS O
+
+show_show_VV O
+me_me_PP O
+movies_movie_NNS O
+from_from_IN O
+poland_poland_NN B-country.name
+
+i_i_NP O
+would_would_MD O
+like_like_VV O
+to_to_TO O
+see_see_VV O
+a_a_DT O
+polish_polish_NN B-movie.language
+language_language_NN I-movie.language
+film_film_NN O
+
+i_i_NNS O
+am_be_VBP O
+interested_interested_JJ O
+in_in_IN O
+watching_watch_VVG O
+a_a_DT O
+movie_movie_NN O
+in_in_IN O
+polish_polish_NN B-movie.language
+
+i_i_NNS O
+want_want_VVP O
+to_to_TO O
+see_see_VV O
+a_a_DT O
+polish_polish_NN B-movie.language
+movie_movie_NN O
+
+list_list_VV O
+some_some_DT O
+funny_funny_JJ B-movie.genre
+russian_Russian_JJ B-movie.language
+movies_movie_NNS O
+
+i_i_NNS O
+am_be_VBP O
+looking_look_VVG O
+for_for_IN O
+the_the_DT O
+information_information_NN O
+on_on_IN O
+the_the_DT O
+movie_movie_NN O
+pretty_pretty_JJ B-movie.name
+women_woman_NNS I-movie.name
+
+list_list_NN O
+of_of_IN O
+barry_Barry_NP B-director.name
+sonnenfeld_Sonnenfeld_NP I-director.name
+films_film_NNS O
+
+find_find_VV O
+martin_martin_NN B-director.name
+scorsese_scorsese_NN I-director.name
+films_film_NNS O
+
+i_i_NNS O
+want_want_VVP O
+to_to_TO O
+see_see_VV O
+a_a_DT O
+movie_movie_NN O
+which_which_WDT O
+was_be_VBD O
+directed_direct_VVN O
+by_by_IN O
+scorsese_scorsese_NN B-director.name
+
+show_show_VV O
+all_all_DT O
+movies_movie_NNS O
+directed_direct_VVN O
+by_by_IN O
+martin_martin_NN B-director.name
+scorcese_scorcese_NN I-director.name
+
+movies_movie_NNS O
+with_with_IN O
+meg_meg_NN B-actor.name
+ryan_ryan_NN I-actor.name
+
+gross_gross_JJ O
+earnings_earning_NNS O
+for_for_IN O
+movies_movie_NNS O
+
+i_i_NNS O
+want_want_VVP O
+to_to_TO O
+watch_watch_VV O
+movies_movie_NNS O
+directed_direct_VVN O
+by_by_IN O
+jackie_jackie_NN B-director.name
+chan_chan_NN I-director.name
+
+star_star_NN B-movie.name
+wars_war_NNS I-movie.name
+
+what_what_WP O
+are_be_VBP O
+the_the_DT O
+plots_plot_NNS O
+of_of_IN O
+hotel_hotel_NN B-movie.name
+rwanda_rwanda_NN I-movie.name
+
+tim_tim_NN B-director.name
+burton_burton_NN I-director.name
+movies_movie_NNS O
+
+bings_bings_NNS O
+movie_movie_NN O
+page_page_NN O
+finding_find_VVG B-movie.name
+nemo_nemo_NN I-movie.name
+
+display_display_NN O
+information_information_NN O
+for_for_IN O
+film_film_NN O
+finding_find_VVG B-movie.name
+nemo_nemo_NN I-movie.name
+
+finding_find_VVG B-movie.name
+nemo_nemo_NN I-movie.name
+movie_movie_NN O
+shortcut_shortcut_NN O
+
+whats_whats_VVZ O
+some_some_DT O
+details_detail_NNS O
+for_for_IN O
+the_the_DT O
+movie_movie_NN O
+finding_find_VVG B-movie.name
+nemo_nemo_NN I-movie.name
+
+show_show_VV O
+all_all_DT O
+details_detail_NNS O
+of_of_IN O
+original_original_JJ O
+finding_find_VVG B-movie.name
+nemo_nemo_NN I-movie.name
+movie_movie_NN O
+
+get_get_VV O
+details_detail_NNS O
+of_of_IN O
+original_original_JJ O
+finding_find_VVG B-movie.name
+nemo_nemo_NN I-movie.name
+movie_movie_NN O
+
+finding_find_VVG B-movie.name
+nemo_nemo_NN I-movie.name
+movie_movie_NN O
+page_page_NN O
+
+find_find_VV O
+movie_movie_NN O
+finding_finding_NN B-movie.name
+nemo_nemo_NN I-movie.name
+
+display_display_VV O
+all_all_DT O
+details_detail_NNS O
+of_of_IN O
+original_original_JJ O
+finding_find_VVG B-movie.name
+nemo_nemo_NN I-movie.name
+movie_movie_NN O
+
+find_find_VV O
+all_all_DT O
+details_detail_NNS O
+of_of_IN O
+original_original_JJ O
+finding_find_VVG B-movie.name
+nemo_nemo_NN I-movie.name
+movie_movie_NN O
+
+what_what_WP O
+has_have_VHZ O
+andrew_andrew_JJ B-director.name
+stanton_stanton_NN I-director.name
+directed_direct_VVD O
+
+what_what_WP O
+movies_movie_NNS O
+has_have_VHZ O
+andrew_andrew_JJ B-director.name
+stanton_stanton_NN I-director.name
+directed_direct_VVD O
+
+what_what_WP O
+did_do_VVD O
+lee_lee_JJ B-director.name
+unkrich_unkrich_NNS I-director.name
+direct_direct_JJ O
+
+i_i_NP O
+would_would_MD O
+like_like_VV O
+to_to_TO O
+see_see_VV O
+a_a_DT O
+movie_movie_NN O
+with_with_IN O
+albert_albert_NN B-actor.name
+brooks_brook_NNS I-actor.name
+in_in_IN O
+it_it_PP O
+
+find_find_VV O
+me_me_PP O
+films_film_NNS O
+produced_produce_VVN O
+by_by_IN O
+drew_draw_VVD B-producer.name
+barrymore_barrymore_NN I-producer.name
+
+what_what_WP O
+movies_movie_NNS O
+that_that_DT O
+clint_clint_NN B-director.name
+eastwood_eastwood_NN I-director.name
+starred_star_VVN O
+in_in_IN O
+did_do_VVD O
+he_he_PP O
+also_also_RB O
+direct_direct_JJ O
+
+what_what_WP O
+movies_movie_NNS O
+did_do_VVD O
+clint_clint_NN B-director.name
+eastwood_eastwood_NN I-director.name
+direct_direct_JJ O
+and_and_CC O
+star_star_JJ O
+in_in_IN O
+
+i_i_NNS O
+want_want_VVP O
+to_to_TO O
+watch_watch_VV O
+a_a_DT O
+movie_movie_NN O
+by_by_IN O
+sergio_sergio_NN B-director.name
+leone_leone_NN I-director.name
+
+show_show_NN O
+sergio_sergio_NN B-director.name
+leone_leone_NN I-director.name
+'s_'s_POS O
+movies_movie_NNS O
+
+show_show_VV O
+me_me_PP O
+movies_movie_NNS O
+directed_direct_VVN O
+by_by_IN O
+sergio_sergio_NN B-director.name
+leone_leone_NN I-director.name
+
+movies_movie_NNS O
+that_that_WDT O
+have_have_VHP O
+been_be_VBN O
+directed_direct_VVN O
+by_by_IN O
+tony_tony_JJ B-director.name
+scott_scott_NN I-director.name
+
+show_show_VV O
+me_me_PP O
+movies_movie_NNS O
+from_from_IN O
+brazil_brazil_NN B-country.name
+
+show_show_VV O
+me_me_PP O
+horror_horror_NN B-movie.genre
+movie_movie_NN O
+earnings_earning_NNS O
+
+movies_movie_NNS O
+with_with_IN O
+harrison_harrison_NN B-actor.name
+ford_ford_NN I-actor.name
+
+show_show_VV O
+me_me_PP O
+only_only_JJ O
+movies_movie_NNS O
+with_with_IN O
+harrison_harrison_NN B-actor.name
+ford_ford_NN I-actor.name
+
+name_name_VV O
+the_the_DT O
+movies_movie_NNS O
+clive_clive_JJ B-actor.name
+owen_owen_NN I-actor.name
+has_have_VHZ O
+been_be_VBN O
+in_in_IN O
+
+what_what_WP O
+movies_movie_NNS O
+has_have_VHZ O
+clive_clive_NN B-actor.name
+owen_owen_NN I-actor.name
+been_be_VBN O
+in_in_IN O
+
+what_what_WP O
+movies_movie_NNS O
+has_have_VHZ O
+clive_clive_JJ B-actor.name
+owen_owen_NN I-actor.name
+starred_star_VVN O
+in_in_IN O
+
+find_find_VV O
+ms._ms._JJ B-movie.name
+congeniality_congeniality_NN I-movie.name
+
+find_find_VV O
+spike_spike_VV B-director.name
+lee_lee_JJ I-director.name
+directed_directed_JJ O
+movies_movie_NNS O
+
+what_what_WP O
+movies_movie_NNS O
+did_do_VVD O
+spike_spike_NN B-director.name
+lee_lee_NN I-director.name
+direct_direct_JJ O
+
+movies_movie_NNS O
+cecil_cecil_NN B-director.name
+b_b_NN I-director.name
+demille_demille_NN I-director.name
+
+i_i_NNS O
+want_want_VVP O
+to_to_TO O
+see_see_VV O
+a_a_DT O
+comedy_comedy_NN B-movie.genre
+in_in_IN O
+spanish_Spanish_NN B-movie.language
+
+find_find_VV O
+films_film_NNS O
+
+find_find_VV O
+films_film_NNS O
+
+find_find_VV O
+movies_movie_NNS O
+
+in_in_IN O
+search_search_NN O
+for_for_IN O
+movies_movie_NNS O
+
+looking_look_VVG O
+for_for_IN O
+movies_movie_NNS O
+
+find_find_VV O
+a_a_DT O
+movie_movie_NN O
+
+are_be_VBP O
+there_there_RB O
+movies_movie_NNS O
+not_not_RB O
+rated_rate_VVN O
+g_g_NN B-rating.name
+
+i_i_NP O
+don_don_NN O
+'t_'t_NN O
+want_want_VVP O
+any_any_DT O
+g_g_NN B-rating.name
+rated_rate_VVN O
+movies_movie_NNS O
+
+can_can_MD O
+you_you_PP O
+find_find_VV O
+some_some_DT O
+drama_drama_NN B-movie.genre
+movies_movie_NNS O
+
+i_i_NP O
+'d_will_MD O
+like_like_VV O
+to_to_TO O
+watch_watch_VV O
+something_something_NN O
+with_with_IN O
+drama_drama_NN B-movie.genre
+
+looking_look_VVG O
+for_for_IN O
+a_a_DT O
+drama_drama_NN B-movie.genre
+movie_movie_NN O
+
+show_show_VV O
+me_me_PP O
+a_a_DT O
+list_list_NN O
+of_of_IN O
+movies_movie_NNS O
+in_in_IN O
+english_English_NN B-movie.language
+
+show_show_VV O
+me_me_PP O
+english_English_JJ B-movie.language
+movies_movie_NNS O
+
+find_find_VV O
+english_English_JJ B-movie.language
+movies_movie_NNS O
+
+can_can_MD O
+i_i_NNS O
+get_get_VV O
+a_a_DT O
+list_list_NN O
+of_of_IN O
+movies_movie_NNS O
+available_available_JJ O
+in_in_IN O
+english_English_NN B-movie.language
+
+show_show_VV O
+me_me_PP O
+movies_movie_NNS O
+in_in_IN O
+english_English_NN B-movie.language
+
+i_i_NP O
+would_would_MD O
+like_like_VV O
+to_to_TO O
+see_see_VV O
+movies_movie_NNS O
+in_in_IN O
+english_English_NN B-movie.language
+
+movies_movie_NNS O
+in_in_IN O
+english_English_NN B-movie.language
+
+show_show_VV O
+me_me_PP O
+a_a_DT O
+list_list_NN O
+of_of_IN O
+all_all_DT O
+movies_movie_NNS O
+made_make_VVN O
+in_in_IN O
+the_the_DT B-country.name
+united_unite_VVN I-country.name
+states_state_NNS I-country.name
+
+what_what_WP O
+are_be_VBP O
+all_all_DT O
+movies_movie_NNS O
+made_make_VVN O
+by_by_IN O
+united_united_JJ B-country.name
+states_state_NNS I-country.name
+
+what_what_WP O
+movies_movie_NNS O
+have_have_VHP O
+been_be_VBN O
+made_make_VVN O
+in_in_IN O
+the_the_DT B-country.name
+united_unite_VVN I-country.name
+states_state_NNS I-country.name
+
+movies_movie_NNS O
+from_from_IN O
+the_the_DT B-country.name
+us_us_PP I-country.name
+
+what_what_WP O
+are_be_VBP O
+all_all_RB O
+of_of_IN O
+the_the_DT O
+movies_movie_NNS O
+made_make_VVN O
+in_in_IN O
+usa_usa_NN B-country.name
+
+i_i_NNS O
+want_want_VVP O
+to_to_TO O
+see_see_VV O
+movies_movie_NNS O
+made_make_VVN O
+in_in_IN O
+america_america_NN B-country.name
+
+show_show_VV O
+me_me_PP O
+a_a_DT O
+list_list_NN O
+of_of_IN O
+movies_movie_NNS O
+made_make_VVN O
+in_in_IN O
+america_america_NN I-country.name
+
+show_show_VV O
+me_me_PP O
+movies_movie_NNS O
+made_make_VVN O
+in_in_IN O
+america_america_NN B-country.name
+
+please_please_UH O
+tell_tell_VV O
+me_me_PP O
+if_if_IN O
+you_you_PP O
+have_have_VHP O
+any_any_DT O
+movies_movie_NNS O
+from_from_IN O
+the_the_DT B-country.name
+united_unite_VVN I-country.name
+states_state_NNS I-country.name
+
+movies_movie_NNS O
+from_from_IN O
+the_the_DT B-country.name
+us_us_PP I-country.name
+
+please_please_UH O
+tell_tell_VV O
+me_me_PP O
+about_about_IN O
+movies_movie_NNS O
+from_from_IN O
+the_the_DT B-country.name
+usa_usa_NN I-country.name
+
+english_English_JJ B-movie.language
+movie_movie_NN O
+list_list_NN O
+
+show_show_VV O
+me_me_PP O
+thrillers_thriller_NNS B-movie.genre
+
+show_show_VV O
+me_me_PP O
+thrillers_thriller_NNS B-movie.genre
+
+show_show_VV O
+me_me_PP O
+comedies_comedy_NNS B-movie.genre
+
+looking_look_VVG O
+for_for_IN O
+a_a_DT O
+comedy_comedy_NN B-movie.genre
+movie_movie_NN O
+
+see_see_VV O
+comedy_comedy_NN B-movie.genre
+
+show_show_VV O
+me_me_PP O
+comedy_comedy_NN B-movie.genre
+movies_movie_NNS O
+
+show_show_VV O
+me_me_PP O
+funny_funny_JJ B-movie.genre
+movies_movie_NNS O
+
+movies_movie_NNS O
+that_that_WDT O
+have_have_VHP O
+comedy_comedy_NN B-movie.genre
+
+can_can_MD O
+you_you_PP O
+show_show_VV O
+me_me_PP O
+a_a_DT O
+list_list_NN O
+of_of_IN O
+scary_scary_JJ B-movie.genre
+movies_movie_NNS O
+
+i_i_NP O
+am_be_VBP O
+in_in_IN O
+the_the_DT O
+mood_mood_NN O
+for_for_IN O
+a_a_DT O
+horror_horror_NN B-movie.genre
+film_film_NN O
+
+looking_look_VVG O
+for_for_IN O
+a_a_DT O
+horror_horror_NN B-movie.genre
+movie_movie_NN O
+
+search_search_NN O
+for_for_IN O
+horror_horror_NN B-movie.genre
+movies_movie_NNS O
+
+show_show_VV O
+me_me_PP O
+horror_horror_NN B-movie.genre
+movies_movie_NNS O
+
+show_show_VV O
+only_only_RB O
+horror_horror_NN B-movie.genre
+movies_movie_NNS O
+
+show_show_VV O
+me_me_PP O
+a_a_DT O
+list_list_NN O
+of_of_IN O
+scary_scary_JJ B-movie.genre
+movies_movie_NNS O
+
+i_i_NNS O
+want_want_VVP O
+to_to_TO O
+see_see_VV O
+a_a_DT O
+list_list_NN O
+of_of_IN O
+scary_scary_JJ B-movie.genre
+movies_movie_NNS O
+
+funny_funny_JJ O
+scary_scary_JJ B-movie.genre
+movies_movie_NNS O
+
+movies_movie_NNS O
+by_by_IN O
+producer_producer_NN O
+
+find_find_VV O
+movies_movie_NNS O
+by_by_IN O
+producer_producer_NN O
+
+movies_movie_NNS O
+with_with_IN O
+bruce_bruce_NN B-actor.name
+willis_willis_NNS I-actor.name
+
+clint_clint_JJ B-actor.name
+eastwood_eastwood_NN I-actor.name
+movies_movie_NNS O
+
+find_find_VV O
+movies_movie_NNS O
+from_from_IN O
+canada_canada_NN B-country.name
+
+get_get_VV O
+me_me_PP O
+canadian_Canadian_JJ B-country.name
+movies_movie_NNS O
+
+show_show_VV O
+me_me_PP O
+movies_movie_NNS O
+from_from_IN O
+canada_canada_NN B-country.name
+
+look_look_VV O
+up_up_RP O
+information_information_NN O
+about_about_IN O
+canadian_Canadian_JJ B-country.name
+movies_movie_NNS O
+
+get_get_VV O
+movies_movie_NNS O
+from_from_IN O
+canada_canada_NN B-country.name
+
+show_show_VV O
+me_me_PP O
+a_a_DT O
+list_list_NN O
+of_of_IN O
+any_any_DT O
+movies_movie_NNS O
+made_make_VVN O
+in_in_IN O
+canada_canada_NN B-country.name
+
+find_find_VV O
+movies_movie_NNS O
+filmed_film_VVN O
+in_in_IN O
+canada_canada_NN B-country.name
+
+get_get_VV O
+films_film_NNS O
+made_make_VVN O
+in_in_IN O
+canada_canada_NN B-country.name
+
+show_show_VV O
+me_me_PP O
+canadian_Canadian_JJ B-country.name
+films_film_NNS O
+
+show_show_VV O
+me_me_PP O
+canadian_Canadian_JJ B-country.name
+movies_movie_NNS O
+
+are_be_VBP O
+there_there_RB O
+any_any_DT O
+canadian_Canadian_JJ B-country.name
+movies_movie_NNS O
+
+are_be_VBP O
+there_there_RB O
+any_any_DT O
+canadian_Canadian_JJ B-country.name
+movies_movie_NNS O
+
+find_find_VV O
+canadian_Canadian_JJ B-country.name
+films_film_NNS O
+
+what_what_WP O
+are_be_VBP O
+some_some_DT O
+movies_movie_NNS O
+made_make_VVN O
+outside_outside_IN B-country.name
+the_the_DT I-country.name
+us_us_PP I-country.name
+
+movies_movie_NNS O
+from_from_IN O
+germany_germany_NN B-country.name
+
+i_i_NNS O
+want_want_VVP O
+to_to_TO O
+watch_watch_VV O
+movies_movie_NNS O
+from_from_IN O
+germany_germany_NN B-country.name
+
+display_display_NN O
+movies_movie_NNS O
+made_make_VVN O
+in_in_IN O
+germany_germany_NN B-country.name
+
+find_find_VV O
+movies_movie_NNS O
+done_do_VVN O
+in_in_IN O
+germany_germany_NN B-country.name
+
+what_what_WP O
+movies_movie_NNS O
+do_do_VVP O
+you_you_PP O
+have_have_VHP O
+that_that_DT O
+were_be_VBD O
+made_make_VVN O
+in_in_IN O
+italy_italy_RB B-country.name
+
+movies_movie_NNS O
+from_from_IN O
+italy_italy_RB B-country.name
+
+does_do_VVZ O
+italy_italy_RB B-country.name
+make_make_VV O
+any_any_DT O
+movies_movie_NNS O
+
+find_find_VV O
+italian_Italian_JJ B-country.name
+movies_movie_NNS O
+
+italian_Italian_JJ B-country.name
+films_film_NNS O
+
+italian_Italian_JJ B-country.name
+movies_movie_NNS O
+
+show_show_VV O
+me_me_PP O
+italian_Italian_JJ B-country.name
+movies_movie_NNS O
+
+get_get_VV O
+all_all_DT O
+italian_Italian_JJ B-movie.language
+language_language_NN I-movie.language
+movies_movie_NNS O
+
+send_send_VV O
+me_me_PP O
+movies_movie_NNS O
+that_that_WDT O
+are_be_VBP O
+in_in_IN O
+italian_Italian_NN B-movie.language
+
+movies_movie_NNS O
+with_with_IN O
+italian_Italian_JJ B-movie.language
+language_language_NN I-movie.language
+
+show_show_VV O
+me_me_PP O
+movies_movie_NNS O
+in_in_IN O
+italian_Italian_NN B-movie.language
+
+what_what_WP O
+movies_movie_NNS O
+are_be_VBP O
+in_in_IN O
+italian_Italian_NN B-movie.language
+
+search_search_NN O
+for_for_IN O
+movies_movie_NNS O
+in_in_IN O
+italian_Italian_NN B-movie.language
+
+find_find_VV O
+movies_movie_NNS O
+in_in_IN O
+italian_Italian_NN B-movie.language
+
+a_a_DT O
+list_list_NN O
+of_of_IN O
+all_all_DT O
+italian_Italian_JJ B-movie.language
+speaking_speaking_NN I-movie.language
+movies_movie_NNS O
+
+give_give_VV O
+me_me_PP O
+a_a_DT O
+list_list_NN O
+of_of_IN O
+movies_movie_NNS O
+from_from_IN O
+spain_spain_NN B-country.name
+
+see_see_VV O
+movies_movie_NNS O
+from_from_IN O
+spain_spain_NN B-country.name
+
+movies_movie_NNS O
+from_from_IN O
+spain_spain_NN B-country.name
+
+movies_movie_NNS O
+from_from_IN O
+spain_spain_NN B-country.name
+
+i_i_NNS O
+want_want_VVP O
+to_to_TO O
+see_see_VV O
+movies_movie_NNS O
+from_from_IN O
+spain_spain_NN B-country.name
+
+movies_movie_NNS O
+made_make_VVN O
+in_in_IN O
+spain_spain_NN B-country.name
+
+are_be_VBP O
+there_there_RB O
+any_any_DT O
+movies_movie_NNS O
+made_make_VVN O
+in_in_IN O
+spain_spain_NN B-country.name
+
+bring_bring_VV O
+up_up_RP O
+spanish_Spanish_JJ B-movie.language
+movies_movie_NNS O
+
+can_can_MD O
+you_you_PP O
+show_show_VV O
+me_me_PP O
+movies_movie_NNS O
+spanish_Spanish_JJ B-movie.language
+
+can_can_MD O
+you_you_PP O
+show_show_VV O
+me_me_PP O
+spanish_Spanish_JJ B-movie.language
+movies_movie_NNS O
+
+find_find_VV O
+spanish_Spanish_JJ B-movie.language
+movies_movie_NNS O
+
+find_find_VV O
+spanish_Spanish_JJ B-movie.language
+movies_movie_NNS O
+
+get_get_VV O
+me_me_PP O
+spanish_Spanish_JJ B-movie.language
+movies_movie_NNS O
+
+I_I_PP O
+'d_will_MD O
+like_like_VV O
+a_a_DT O
+list_list_NN O
+of_of_IN O
+spanish_Spanish_JJ B-movie.language
+movies_movie_NNS O
+
+I_I_PP O
+'d_will_MD O
+like_like_VV O
+to_to_TO O
+know_know_VV O
+some_some_DT O
+spanish_Spanish_JJ B-movie.language
+movies_movie_NNS O
+
+i_i_NNS O
+want_want_VVP O
+only_only_RB O
+spanish_Spanish_JJ B-movie.language
+movies_movie_NNS O
+
+i_i_NNS O
+want_want_VVP O
+to_to_TO O
+look_look_VV O
+up_up_RP O
+spanish_Spanish_JJ B-movie.language
+movies_movie_NNS O
+
+list_list_NN O
+spanish_Spanish_NN B-movie.language
+movies_movie_NNS O
+
+list_list_NN O
+spanish_Spanish_NN B-movie.language
+movies_movie_NNS O
+
+look_look_NN O
+for_for_IN O
+spanish_Spanish_JJ B-movie.language
+movies_movie_NNS O
+
+search_search_NN O
+for_for_IN O
+spanish_Spanish_JJ B-movie.language
+movies_movie_NNS O
+
+search_search_NN O
+for_for_IN O
+spanish_Spanish_JJ B-movie.language
+movies_movie_NNS O
+
+show_show_VV O
+me_me_PP O
+spanish_Spanish_JJ B-movie.language
+movies_movie_NNS O
+
+spanish_Spanish_JJ B-movie.language
+movie_movie_NN O
+listing_listing_NN O
+
+spanish_Spanish_JJ B-movie.language
+movies_movie_NNS O
+
+find_find_VV O
+romance_romance_NN B-movie.genre
+movies_movie_NNS O
+
+give_give_VV O
+me_me_PP O
+a_a_DT O
+list_list_NN O
+of_of_IN O
+romance_romance_NN B-movie.genre
+movies_movie_NNS O
+
+find_find_VV O
+me_me_PP O
+romantic_romantic_JJ B-movie.genre
+movies_movie_NNS O
+
+i_i_NNS O
+want_want_VVP O
+to_to_TO O
+find_find_VV O
+romantic_romantic_JJ B-movie.genre
+movies_movie_NNS O
+
+locate_locate_VV O
+romantic_romantic_JJ B-movie.genre
+movies_movie_NNS O
+for_for_IN O
+me_me_PP O
+
+list_list_VV O
+some_some_DT O
+movies_movie_NNS O
+that_that_WDT O
+are_be_VBP O
+in_in_IN O
+french_French_NN B-movie.language
+
+find_find_VV O
+french_French_JJ B-movie.language
+language_language_NN I-movie.language
+movies_movie_NNS O
+
+find_find_VV O
+movies_movie_NNS O
+in_in_IN O
+french_French_NNS B-movie.language
+
+find_find_NN O
+movies_movie_NNS O
+is_be_VBZ O
+french_French_JJ B-movie.language
+
+list_list_NN O
+movies_movie_NNS O
+in_in_IN O
+french_French_NNS B-movie.language
+
+look_look_NN O
+for_for_IN O
+movies_movie_NNS O
+in_in_IN O
+french_French_NNS B-movie.language
+
+search_search_NN O
+for_for_IN O
+movies_movie_NNS O
+in_in_IN O
+french_French_NNS B-movie.language
+
+search_search_NN O
+for_for_IN O
+movies_movie_NNS O
+in_in_IN O
+french_French_NNS B-movie.language
+
+show_show_VV O
+me_me_PP O
+movies_movie_NNS O
+produced_produce_VVN O
+in_in_IN O
+french_French_NNS B-movie.language
+
+show_show_NN O
+movies_movie_NNS O
+in_in_IN O
+french_French_NNS B-movie.language
+
+show_show_VV O
+only_only_JJ O
+movies_movie_NNS O
+that_that_WDT O
+are_be_VBP O
+in_in_IN O
+french_French_NN B-movie.language
+
+find_find_VV O
+french_French_JJ B-movie.language
+language_language_NN I-movie.language
+movies_movie_NNS O
+
+list_list_NN O
+of_of_IN O
+all_all_DT O
+french_French_JJ B-movie.language
+speaking_speaking_NN I-movie.language
+films_film_NNS O
+
+list_list_NN O
+of_of_IN O
+french_French_JJ B-movie.language
+language_language_NN I-movie.language
+movies_movie_NNS O
+
+show_show_VV O
+me_me_PP O
+movies_movie_NNS O
+in_in_IN O
+french_French_NNS B-movie.language
+
+can_can_MD O
+you_you_PP O
+list_list_VV O
+movies_movie_NNS O
+in_in_IN O
+french_French_NNS B-movie.language
+
+find_find_VV O
+all_all_DT O
+films_film_NNS O
+showing_show_VVG O
+in_in_IN O
+french_French_NN B-movie.language
+
+show_show_VV O
+me_me_PP O
+a_a_DT O
+list_list_NN O
+of_of_IN O
+all_all_PDT O
+the_the_DT O
+movies_movie_NNS O
+produced_produce_VVN O
+by_by_IN O
+william_William_NP B-producer.name
+packer_packer_NN I-producer.name
+
+information_information_NN O
+about_about_IN O
+movie_movie_NN O
+
+show_show_VV O
+me_me_PP O
+information_information_NN O
+about_about_IN O
+movie_movie_NN O
+
+show_show_VV O
+me_me_PP O
+information_information_NN O
+on_on_IN O
+movie_movie_NN O
+
+tell_tell_VV O
+me_me_PP O
+about_about_IN O
+movie_movie_NN O
+
+please_please_UH O
+show_show_VV O
+me_me_PP O
+all_all_RB O
+of_of_IN O
+the_the_DT O
+films_film_NNS O
+that_that_WDT O
+involve_involve_VVP O
+kevin_kevin_NN B-actor.name
+bacon_bacon_NN I-actor.name
+
+i_i_NNS O
+want_want_VVP O
+movies_movie_NNS O
+about_about_IN O
+9-11_@card@_CD B-movie.subject
+
+what_what_WP O
+other_other_JJ O
+movies_movie_NNS O
+has_have_VHZ O
+bill_bill_NN B-actor.name
+paxton_paxton_NN I-actor.name
+starred_star_VVN O
+in_in_IN O
+
+find_find_VV O
+some_some_DT O
+suspenseful_suspenseful_JJ B-movie.genre
+movies_movie_NNS O
+
+a_a_DT O
+movie_movie_NN O
+based_base_VVN O
+on_on_IN O
+time_time_NN B-movie.subject
+travel_travel_NN I-movie.subject
+
+find_find_VV O
+time_time_NN B-movie.subject
+travel_travel_NN I-movie.subject
+movies_movie_NNS O
+
+give_give_VV O
+me_me_PP O
+a_a_DT O
+list_list_NN O
+of_of_IN O
+time_time_NN B-movie.subject
+travel_travel_NN I-movie.subject
+movies_movie_NNS O
+
+movies_movie_NNS O
+about_about_IN O
+time_time_NN B-movie.subject
+travel_travel_NN I-movie.subject
+
+show_show_VV O
+me_me_PP O
+movies_movie_NNS O
+about_about_IN O
+time_time_NN B-movie.subject
+travel_travel_NN I-movie.subject
+
+show_show_VV O
+me_me_PP O
+movies_movie_NNS O
+with_with_IN O
+time_time_NN B-movie.subject
+travel_travel_NN I-movie.subject
+themes_theme_NNS O
+
+show_show_VV O
+me_me_PP O
+time_time_NN B-movie.subject
+travel_travel_NN I-movie.subject
+movies_movie_NNS O
+
+show_show_NN O
+videos_video_NNS O
+about_about_IN O
+time_time_NN B-movie.subject
+travel_travel_NN I-movie.subject
+
+time_time_NN B-movie.subject
+travel_travel_NN I-movie.subject
+movies_movie_NNS O
+
+what_what_WP O
+are_be_VBP O
+movies_movie_NNS O
+whose_whose_WP$ O
+topic_topic_NN O
+involves_involve_VVZ O
+time_time_NN B-movie.subject
+travel_travel_NN I-movie.subject
+
+movies_movie_NNS O
+about_about_IN O
+time_time_NN B-movie.subject
+travel_travel_NN I-movie.subject
+
+movies_movie_NNS O
+about_about_IN O
+time_time_NN B-movie.subject
+travel_travel_NN I-movie.subject
+
+show_show_VV O
+me_me_PP O
+movies_movie_NNS O
+about_about_IN O
+time_time_NN B-movie.subject
+travel_travel_NN I-movie.subject
+
+show_show_VV O
+me_me_PP O
+movies_movie_NNS O
+about_about_IN O
+time_time_NN B-movie.subject
+travel_travel_NN I-movie.subject
+
+show_show_VV O
+me_me_PP O
+some_some_DT O
+movies_movie_NNS O
+that_that_WDT O
+are_be_VBP O
+related_relate_VVN O
+to_to_TO O
+time_time_NN B-movie.subject
+travel_travel_NN I-movie.subject
+
+what_what_WP O
+are_be_VBP O
+some_some_DT O
+movies_movie_NNS O
+that_that_WDT O
+involve_involve_VVP O
+time_time_NN B-movie.subject
+travel_travel_NN I-movie.subject
+
+what_what_WP O
+movies_movie_NNS O
+discuss_discuss_VVP O
+time_time_NN B-movie.subject
+travel_travel_NN I-movie.subject
+
+quentin_quentin_NN B-director.name
+tarrantino_tarrantino_NN I-director.name
+movies_movie_NNS O
+
+what_what_WP O
+movies_movie_NNS O
+did_do_VVD O
+quentin_quentin_NN B-director.name
+terrantino_terrantino_NN I-director.name
+direct_direct_JJ O
+
+list_list_VV O
+the_the_DT O
+movies_movie_NNS O
+anna_anna_NN B-actor.name
+paquin_paquin_NN I-actor.name
+has_have_VHZ O
+starred_star_VVN O
+in_in_RP O
+
+movies_movie_NNS O
+from_from_IN O
+england_england_NN B-country.name
+
+movies_movie_NNS O
+from_from_IN O
+england_england_NN B-country.name
+
+movies_movie_NNS O
+from_from_IN O
+england_england_NN B-country.name
+please_please_RB O
+
+show_show_VV O
+me_me_PP O
+england_england_NN B-country.name
+movies_movie_NNS O
+
+show_show_VV O
+me_me_PP O
+movies_movie_NNS O
+from_from_IN O
+england_england_NN B-country.name
+
+show_show_VV O
+me_me_PP O
+movies_movie_NNS O
+made_make_VVN O
+in_in_IN O
+england_england_NN B-country.name
+
+find_find_VV O
+movies_movie_NNS O
+directed_direct_VVN O
+by_by_IN O
+chris_chris_NN B-director.name
+columbus_Columbus_NN I-director.name
+
+what_what_WP O
+other_other_JJ O
+movies_movie_NNS O
+has_have_VHZ O
+richard_richard_JJ B-director.name
+lester_lester_NN I-director.name
+directed_direct_VVD O
+
+search_search_NN O
+for_for_IN O
+movies_movie_NNS O
+by_by_IN O
+language_language_NN O
+
+mandarin_mandarin_NN B-movie.language
+movie_movie_NN O
+please_please_RB O
+
+please_please_UH O
+find_find_VV O
+a_a_DT O
+movie_movie_NN O
+in_in_IN O
+mandarin_mandarin_NN B-movie.language
+
+movie_movie_NN O
+made_make_VVD O
+in_in_IN O
+mandarin_mandarin_NN B-movie.language
+
+which_which_WDT O
+movies_movie_NNS O
+are_be_VBP O
+originally_originally_RB O
+in_in_IN O
+a_a_DT B-movie.language
+foreign_foreign_JJ I-movie.language
+language_language_NN I-movie.language
+
+find_find_VV O
+me_me_PP O
+tamil_Tamil_NN B-movie.language
+movies_movie_NNS O
+
+show_show_VV O
+me_me_PP O
+the_the_DT O
+latest_late_JJS O
+movies_movie_NNS O
+in_in_IN O
+tamil_Tamil_NN B-movie.language
+
+find_find_VV O
+hindi_Hindi_NN B-movie.language
+movies_movie_NNS O
+
+find_find_VV O
+movies_movie_NNS O
+in_in_IN O
+hindi_hindi_NNS B-movie.language
+
+list_list_VV O
+the_the_DT O
+hindi_Hindi_NN B-movie.language
+movies_movie_NNS O
+
+what_what_WP O
+is_be_VBZ O
+hindi_Hindi_NN B-movie.language
+
+i_i_NP O
+would_would_MD O
+like_like_VV O
+to_to_TO O
+get_get_VV O
+a_a_DT O
+list_list_NN O
+of_of_IN O
+movie_movie_NN O
+names_name_NNS O
+in_in_IN O
+hindi_Hindi_NN B-movie.language
+language_language_NN I-movie.language
+
+what_what_WP O
+films_film_NNS O
+are_be_VBP O
+not_not_RB B-movie.language
+spoken_speak_VVN I-movie.language
+in_in_IN I-movie.language
+english_English_NN I-movie.language
+
+what_what_WP O
+movies_movie_NNS O
+are_be_VBP O
+spoken_speak_VVN B-movie.language
+in_in_IN I-movie.language
+another_another_DT I-movie.language
+language_language_NN I-movie.language
+
+i_i_NNS O
+want_want_VVP O
+to_to_TO O
+watch_watch_VV O
+a_a_DT O
+romance_romance_NN B-movie.genre
+made_make_VVN O
+in_in_IN O
+india_india_NN B-country.name
+
+i_i_NNS O
+need_need_VVP O
+to_to_TO O
+get_get_VV O
+a_a_DT O
+list_list_NN O
+of_of_IN O
+some_some_DT O
+romantic_romantic_JJ B-movie.genre
+indian_Indian_JJ B-movie.language
+movies_movie_NNS O
+
